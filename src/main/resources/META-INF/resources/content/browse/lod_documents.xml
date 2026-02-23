@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MyCoReWebPage>
+
+<MyCoReWebPage>
+
+    <section xml:lang="de">
+        <head>
+            <meta name="title" content="Languages of Diplomacy"/>
+            <meta name="description" content="Languages of Diplomacy - Dokumentklassifikation"/>
+        </head>
+    </section>
+    <section xml:lang="en">
+        <head>
+            <meta name="title" content="Languages of Diplomacy"/>
+            <meta name="description" content="Languages of Diplomacy - Document classification"/>
+        </head>
+    </section>
+    <section xml:lang="fr">
+        <head>
+            <meta name="title" content="Languages of Diplomacy"/>
+            <meta name="description" content="Languages of Diplomacy - Classification du document"/>
+        </head>
+    </section>
+
+    <section i18n="browse.lod_document_classification.title" xml:lang="all">
+        <div class="row">
+            <div class="col-md-8" lang="de">
+                <h3>
+                    <i18n key="browse.lod_document_classification.title"/>
+                </h3>
+                <classificationbrowser classification="lod_document_classification"
+                                       objecttype="mods"
+                                       restriction="+category.top:&quot;state:published&quot;"
+                                       field="category.top"
+                                       countresults="true"
+                                       addclassid="true"
+                                       emptyleaves="true"
+                                       style="bootstrap"
+                                       parameters="sort=mods.dateIssued+desc"
+                                       addParameter="XSL.template=template_mir"
+                />
+            </div>
+        </div>
+    </section>
+
+</MyCoReWebPage>

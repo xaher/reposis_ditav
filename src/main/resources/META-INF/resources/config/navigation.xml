@@ -69,9 +69,10 @@
       <label xml:lang="de">Dokumenttypen</label>
       <label xml:lang="en">Genres</label>
     </item>
-    <item href="/servlets/MCRActionMappingServlet/personindex/browse" type="extern">
-      <label xml:lang="de">Personen</label>
-      <label xml:lang="en">Persons</label>
+    <item href="/content/browse/lod_documents.xml" replaceMenu="false" constrainPopUp="false">
+      <label xml:lang="de">LoD - Dokumentklassifikation</label>
+      <label xml:lang="en">LoD - Document classification</label>
+      <label xml:lang="fr">LoD - Classification du document</label>
     </item>
   </menu>
   <menu id="publish" dir="/content/publish">
