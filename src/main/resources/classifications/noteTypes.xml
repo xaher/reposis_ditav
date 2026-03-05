@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="noteTypes">
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="noteTypes">
   <label xml:lang="de" text="Kommentartyp" />
   <label xml:lang="en" text="Type of note" />
   <label xml:lang="fr" text="Type de note" />
   <label xml:lang="x-uri" text="http://www.mycore.org/classifications/noteTypes" />
   <url xlink:href="http://www.loc.gov/standards/mods/mods-notes.html" xlink:type="locator" />
   <categories>
+    <category ID="author_of_description">
+      <label xml:lang="de" text="Autor der Beschreibung" />
+      <label xml:lang="en" text="author of description" />
+      <label xml:lang="fr" text="Auteur de la description" />
+      <label xml:lang="x-access" text="editor admin" />
+    </category>
     <category ID="version_identification">
       <label xml:lang="de" text="Versionskennzeichen" />
       <label xml:lang="en" text="version identification" />
@@ -42,7 +46,7 @@
       <label xml:lang="de" text="Verfasserangabe" />
       <label xml:lang="en" text="statement of responsibility" />
       <label xml:lang="fr" text="mention de responsabilité" />
-      <label xml:lang="x-access" text="editor admin" />
+      <label xml:lang="x-access" text="guest" />
     </category>
     <category ID="source_type">
       <label xml:lang="de" text="Quellentyp" />
@@ -108,12 +112,6 @@
       <label xml:lang="de" text="Eigentümer" />
       <label xml:lang="en" text="ownership" />
       <label xml:lang="fr" text="propriété" />
-      <label xml:lang="x-access" text="guest" />
-    </category>
-    <category ID="orthography">
-      <label xml:lang="de" text="Orthographie" />
-      <label xml:lang="en" text="orthography" />
-      <label xml:lang="fr" text="orthographe" />
       <label xml:lang="x-access" text="guest" />
     </category>
     <category ID="original_version">

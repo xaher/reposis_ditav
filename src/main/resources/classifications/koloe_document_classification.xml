@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-             xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="koloe_document_classification">
-  <label xml:lang="de" text="(KoloE) Quellenart" />
-  <label xml:lang="en" text="(KoloE) Source type" />
-  <label xml:lang="fr" text="(KoloE) Type de source" />
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="koloe_document_classification">
+  <label xml:lang="de" text="Quellenart" description="(KoloE) Quellenart" />
+  <label xml:lang="en" text="Source type" description="(KoloE) type of source" />
+  <label xml:lang="fr" text="Type de source" description="(KoloE) Type de source" />
   <label xml:lang="x-uri" text="https://ditav.gbv.de/api/v2/classifications/koloe_document_classification" />
   <categories>
     <category ID="broadsheet">

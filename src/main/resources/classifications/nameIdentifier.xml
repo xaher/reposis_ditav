@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="nameIdentifier">
+  <label xml:lang="de" text="Namens Identifikator" />
+  <label xml:lang="en" text="Name Identifier" />
+  <label xml:lang="x-uri" text="http://www.mycore.org/classifications/nameIdentifier" />
+  <categories>
+    <category ID="gnd">
+      <label xml:lang="de" text="GND" />
+      <label xml:lang="en" text="GND" />
+      <label xml:lang="x-uri" text="https://d-nb.info/gnd/" />
+    </category>
+    <category ID="orcid">
+      <label xml:lang="de" text="ORCID" />
+      <label xml:lang="en" text="ORCID" />
+      <label xml:lang="x-uri" text="https://orcid.org/" />
+    </category>
+    <category ID="viaf">
+      <label xml:lang="de" text="VIAF" />
+      <label xml:lang="en" text="VIAF" />
+      <label xml:lang="x-uri" text="https://viaf.org/viaf/" />
+    </category>
+    <category ID="loc">
+      <label xml:lang="de" text="LOC" />
+      <label xml:lang="en" text="LOC" />
+      <label xml:lang="x-uri" text="https://id.loc.gov/authorities/names/" />
+    </category>
+    <category ID="Wikidata">
+      <label xml:lang="de" text="Wikidata" />
+      <label xml:lang="en" text="Wikidata" />
+      <label xml:lang="x-uri" text="https://www.wikidata.org/wiki/" />
+    </category>
+    <category ID="ror">
+      <label xml:lang="de" text="ROR" />
+      <label xml:lang="en" text="ROR" />
+      <label xml:lang="x-uri" text="https://ror.org/" />
+    </category>
+    <category ID="ISNI">
+      <label xml:lang="de" text="ISNI" />
+      <label xml:lang="en" text="ISNI" />
+      <label xml:lang="x-uri" text="https://isni.org/isni/" />
+    </category>
+    <category ID="FundRef">
+      <label xml:lang="de" text="FundRef" />
+      <label xml:lang="en" text="FundRef" />
+      <label xml:lang="x-uri" text="https://search.crossref.org/funding?q=" />
+    </category>
+    <category ID="OrgRef">
+      <label xml:lang="de" text="OrgRef" />
+      <label xml:lang="en" text="OrgRef" />
+      <label xml:lang="x-uri" text="#" />
+    </category>
+  </categories>
+</mycoreclass>

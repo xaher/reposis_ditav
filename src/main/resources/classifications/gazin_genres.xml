@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="gazin_genres">
+  <label xml:lang="de" text="Liedtyp" description="(GZN) Liste der Liedgenre" />
+  <label xml:lang="en" text="song type" description="(GZN) A list of song genre" />
+  <label xml:lang="x-uri" text="https://ditav.gbv.de/api/v2/classifications/gazin_genres" />
+  <categories>
+    <category ID="govende">
+      <label xml:lang="de" text="metrisierte, strophische (Tanz-) Lieder" />
+      <label xml:lang="en" text="metered strophic (dance) song" />
+      <label xml:lang="kur" text="stran-strana govendê" />
+      <label xml:lang="tr" text="halay-oyun havası" />
+    </category>
+    <category ID="kilam">
+      <label xml:lang="de" text="metrisch freie, erzählende Lieder" />
+      <label xml:lang="en" text="non-metered narrative song" />
+      <label xml:lang="kur" text="kilam" />
+      <label xml:lang="tr" text="uzun hava" />
+    </category>
+    <category ID="stran">
+      <label xml:lang="de" text="moderne, strophische Lieder" />
+      <label xml:lang="en" text="modern strophic song" />
+      <label xml:lang="kur" text="stran" />
+      <label xml:lang="tr" text="modern popüler şarkı formu" />
+    </category>
+  </categories>
+</mycoreclass>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-             xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="identifier">
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="identifier">
   <label xml:lang="de" text="Identifikatoren" />
   <label xml:lang="en" text="Identifier" />
   <label xml:lang="x-uri" text="http://www.mycore.org/classifications/identifier" />

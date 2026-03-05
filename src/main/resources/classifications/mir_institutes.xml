@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="mir_institutes">
-  <label xml:lang="de" text="Beispiel-Einrichtungen" description="Liste der Einrichtungen" />
-  <label xml:lang="en" text="Sample Institutions" description="A list of institutions" />
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="mir_institutes">
+  <label xml:lang="de" text="Einrichtungen" description="Liste der Einrichtungen in DiTaV" />
+  <label xml:lang="en" text="Institutions" description="A list of institutions on DiTaV" />
   <label xml:lang="x-uri" text="https://ditav.gbv.de/api/v2/classifications/mir_institutes" />
   <categories>
+    <category ID="koloe">
+      <label xml:lang="de" text="Uni Hannover" description="Projekt: Archivalische Quellen zum (post)kolonialen Erbe in Niedersachsen und Bremen" />
+      <label xml:lang="en" text="Uni Hannover" description="Project: Archival Sources on the (Post)colonial Heritage in Lower Saxony and Bremen" />
+    </category>
     <category ID="mws">
       <label xml:lang="de" text="Max-Weber-Stiftung" />
       <label xml:lang="en" text="Max Weber Foundation" />

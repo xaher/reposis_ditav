@@ -48,7 +48,7 @@
         <label xml:lang="x-miless" text="performer" />
       </category>
       <category ID="sng">
-        <label xml:lang="de" text="Sänger(in)" description="Eine Person oder Institution, die für die vokale Darbietung eines Werkes verantwortlich ist." />
+        <label xml:lang="de" text="Gesang" description="Eine Person oder Institution, die für die vokale Darbietung eines Werkes verantwortlich ist." />
         <label xml:lang="en" text="Singer" description="Use for a person or organization responsible for the vocal performance of a work." />
         <label xml:lang="fr" text="Chanteur" description="Une personne ou une institution responsable de la performance vocale d'une œuvre." />
         <label xml:lang="x-miless" text="singer" />
@@ -138,22 +138,22 @@
         <label xml:lang="x-miless" text="funder" />
       </category>
       <category ID="trl">
-        <label xml:lang="de" text="Übersetzer(in)" description="Eine Person oder Institution, die eine Text von einer Sprache in eine andere, oder eine ältere Form einer Sprache in eine modernere übersetzt." />
-        <label xml:lang="en" text="Translator" description="Use for a person or organization who renders a text from one language into another, or from an older form of a language into the modern form." />
-        <label xml:lang="fr" text="Traducteur" description="Une personne ou une institution qui traduit un texte d'une langue à une autre, ou une forme ancienne d'une langue à une forme plus moderne." />
+        <label xml:lang="de" text="Übersetzung" description="Eine Person oder Institution, die eine Text von einer Sprache in eine andere, oder eine ältere Form einer Sprache in eine modernere übersetzt." />
+        <label xml:lang="en" text="Translation" description="Use for a person or organization who renders a text from one language into another, or from an older form of a language into the modern form." />
+        <label xml:lang="fr" text="Traduction" description="Une personne ou une institution qui traduit un texte d'une langue à une autre, ou une forme ancienne d'une langue à une forme plus moderne." />
         <label xml:lang="x-miless" text="translator" />
       </category>
       <category ID="trc">
-        <label xml:lang="de" text="Transkribierende(r)" description="Eine Person oder Institution, die zu einer Ressource beiträgt, indem sie sie von einem Notationssystem in ein anderes überträgt. Für eine Arbeit, die für ein anderes Instrument oder eine andere Aufführungsgruppe transkribiert wurde, siehe Arrangeur [arr]. Für Hersteller von Stift-Faksimiles verwenden Sie Facsimilist [fac]." />
-        <label xml:lang="en" text="Transcriber" description="A person, family, or organization contributing to a resource by changing it from one system of notation to another. For a work transcribed for a different instrument or performing group, see Arranger [arr]. For makers of pen-facsimiles, use Facsimilist [fac]"/>
-        <label xml:lang="fr" text="Transcripteur" description="Une personne ou une institution qui contribue à une ressource en la changeant d'un système de notation à un autre. Pour une œuvre transcrite pour un instrument ou un groupe de performance différent, voir Arrangeur [arr]. Pour les fabricants de fac-similés au stylo, utilisez Facsimilist [fac]." />
+        <label xml:lang="de" text="Transkription" description="Eine Person oder Institution, die zu einer Ressource beiträgt, indem sie sie von einem Notationssystem in ein anderes überträgt. Für eine Arbeit, die für ein anderes Instrument oder eine andere Aufführungsgruppe transkribiert wurde, siehe Arrangeur [arr]. Für Hersteller von Stift-Faksimiles verwenden Sie Facsimilist [fac]." />
+        <label xml:lang="en" text="Transcription" description="A person, family, or organization contributing to a resource by changing it from one system of notation to another. For a work transcribed for a different instrument or performing group, see Arranger [arr]. For makers of pen-facsimiles, use Facsimilist [fac]" />
+        <label xml:lang="fr" text="Transcription" description="Une personne ou une institution qui contribue à une ressource en la changeant d'un système de notation à un autre. Pour une œuvre transcrite pour un instrument ou un groupe de performance différent, voir Arrangeur [arr]. Pour les fabricants de fac-similés au stylo, utilisez Facsimilist [fac]." />
         <label xml:lang="x-miless" text="transcriber" />
       </category>
       <category ID="crr">
-        <label xml:lang="en" text="Corrector" description="A person or organization who is a corrector of manuscripts, such as the scriptorium official who corrected the work of a scribe. For printed matter, use Proofreader" />
-        <label xml:lang="de" text="Korrektor(in)" description="Eine Person oder Institution, die Korrektor von Manuskripten ist, wie z.B. der Scriptorium-Beamte, der die Arbeit eines Schreibers korrigiert hat. Für gedruckte Sachen verwenden Sie Lektor(in)" />
-        <label xml:lang="fr" text="Correcteur" description="Une personne ou une institution qui est un correcteur de manuscrits, comme le fonctionnaire du scriptorium qui a corrigé le travail d'un scribe. Pour les documents imprimés, utilisez Proofreader" />
-        <label text="corrector" xml:lang="x-miless" />
+        <label xml:lang="de" text="Korrektur" description="Eine Person oder Institution, die Korrektor von Manuskripten ist, wie z.B. der Scriptorium-Beamte, der die Arbeit eines Schreibers korrigiert hat. Für gedruckte Sachen verwenden Sie Lektor(in)" />
+        <label xml:lang="en" text="Proofreading" description="A person or organization who is a corrector of manuscripts, such as the scriptorium official who corrected the work of a scribe. For printed matter, use Proofreader" />
+        <label xml:lang="fr" text="Relecture" description="Une personne ou une institution qui est un correcteur de manuscrits, comme le fonctionnaire du scriptorium qui a corrigé le travail d'un scribe. Pour les documents imprimés, utilisez Proofreader" />
+        <label xml:lang="x-miless" text="corrector" />
       </category>
       <category ID="ill">
         <label xml:lang="de" text="Illustrator(in)" description="Eine Person oder Institution, die eine Zeichnung oder Illustration  entwirft und eventuell auch implementiert, um einen geschriebenen Text zu begleiten." />

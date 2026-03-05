@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="translation">
-  <label xml:lang="de" text="Übersetzung" />
-  <label xml:lang="en" text="Translation" />
-  <label xml:lang="fr" text="Traduction" />
+  <label xml:lang="de" text="Übersetzung" description="Der Text ist eine Übersetzung." />
+  <label xml:lang="en" text="Translation" description="The text is a translation." />
+  <label xml:lang="fr" text="Traduction" description="Le texte est une traduction." />
   <label xml:lang="x-uri" text="https://ditav.gbv.de/api/v2/classifications/translation" />
   <categories>
     <category ID="yes">
