@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="mir_relateditem">
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="mir_relateditem">
   <label xml:lang="en" text="relateditem" />
   <label xml:lang="x-uri" text="http://www.mycore.org/classifications/mir_relateditem" />
   <categories>
+    <category ID="see_also">
+      <label xml:lang="de" text="Siehe auch" />
+      <label xml:lang="en" text="See also" />
+      <label xml:lang="fr" text="Voir aussi" />
+    </category>
+    <category ID="translated_from">
+      <label xml:lang="de" text="Übersetzt aus" />
+      <label xml:lang="en" text="Translated from" />
+      <label xml:lang="fr" text="Traduit de" />
+    </category>
+    <category ID="translation_of">
+      <label xml:lang="de" text="Übersetzung von" />
+      <label xml:lang="en" text="Translation of" />
+      <label xml:lang="fr" text="Traduction de" />
+    </category>
+    <category ID="response_to">
+      <label xml:lang="de" text="Antwort auf" />
+      <label xml:lang="en" text="Response to" />
+      <label xml:lang="fr" text="Réponse à" />
+    </category>
+    <category ID="has_grouping">
+      <label xml:lang="de" text="Hat Gruppierung" />
+      <label xml:lang="en" text="Has Grouping" />
+      <label xml:lang="fr" text="A un regroupement" />
+    </category>
     <category ID="described_in">
       <label xml:lang="de" text="Begleittext" />
+      <label xml:lang="en" text="Described in" />
+      <label xml:lang="fr" text="Texte accompagnateur" />
     </category>
     <category ID="analysed_in">
       <label xml:lang="de" text="Wird analysiert in" />
       <label xml:lang="en" text="is analysed in" />
+      <label xml:lang="fr" text="est analysé dans" />
     </category>
   </categories>
 </mycoreclass>
