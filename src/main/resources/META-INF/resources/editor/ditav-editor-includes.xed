@@ -7,6 +7,9 @@
     <xed:include ref="lod_archives" after="gazin_genres" />
     <xed:include ref="lod_document_classification" after="lod_archives" />
     <xed:include ref="koloe_document_classification" after="lod_document_classification" />
+    <xed:include ref="koloe_topic_classification" after="koloe_document_classification" />
+    <xed:include ref="koloe_continents" after="koloe_topic_classification" />
+    <xed:include ref="koloe_period" after="koloe_continents" />
     <xed:include ref="ditav_translation" after="comment.complex" />
     <xed:include ref="ditav_transcription" after="ditav_translation" />
     <xed:include ref="ditav_translation_available" after="ditav_transcription" />
@@ -26,43 +29,40 @@
     </xed:bind>
 
     <xed:include ref="genre" />
-    <xed:include ref="toc-layout" />
+    <xed:include ref="lod_document_classification" />
+    <!--    <xed:include ref="toc-layout" />-->
     <xed:include ref="title.complex.repeated" />
     <xed:include ref="name.extended.full.repeated" />
-    <xed:include ref="conference.itemsearch" />
     <xed:include ref="date.range.extended.datetimepicker" />
     <xed:include ref="place" />
-    <xed:include ref="publisher" />
     <xed:include ref="creator.place" />
     <xed:include ref="creator" />
-    <xed:include ref="edition" />
     <xed:include ref="extent" />
     <xed:include ref="type.of.resource" />
     <xed:include ref="language" />
     <xed:include ref="geographicAndCartographics" />
     <xed:include ref="identifier.managed" />
     <xed:include ref="identifier.repeated" />
+    <xed:include ref="lod_archives" />
     <xed:include ref="shelfmark" />
-    <xed:include ref="link.repeated" />
-    <xed:include ref="embargo" />
-    <xed:include ref="access" />
+    <!--<xed:include
+    ref="link.repeated" />-->
+    <!--<xed:include
+    ref="embargo" />-->
     <xed:include ref="rights" />
-    <xed:include ref="copyrightMD" />
-    <xed:include ref="institutes" />
+    <!--<xed:include
+    ref="copyrightMD" /> -->
+    <!-- <xed:include ref="institutes" /> -->
     <xed:include ref="subject.complex" />
-    <xed:include ref="abstract.repeated" />
+    <!-- <xed:include ref="abstract.repeated" /> -->
+    <!--<xed:include
+    ref="related.item.search.of.all.items" />-->
+    <xed:include ref="ditav_translation" />
+    <xed:include ref="ditav_transcription" />
+    <xed:include ref="ditav_translation_available" />
+    <xed:include ref="ditav_scan_available" />
     <xed:include ref="comment.complex" />
-    <xed:include ref="related.item.search.of.all.items" />
     <xed:include ref="related.item.other.search.of.all.items" />
-
-    <xed:include ref="cancel.submit" />
-    <xed:include ref="cleanup-rules" />
-    <xed:include ref="validation-rules" />
-
-    <xed:include ref="javascript" />
-    <!-- frame for modal window -->
-    <xed:include ref="modal.name" />
-    <xed:include ref="modal.body" />
   </xed:template>
 
   <!-- ========== genres ========== -->
@@ -72,6 +72,9 @@
     <xed:include ref="lod_archives" after="gazin_genres" />
     <xed:include ref="lod_document_classification" after="lod_archives" />
     <xed:include ref="koloe_document_classification" after="lod_document_classification" />
+    <xed:include ref="koloe_topic_classification" after="koloe_document_classification" />
+    <xed:include ref="koloe_continents" after="koloe_topic_classification" />
+    <xed:include ref="koloe_period" after="koloe_continents" />
     <xed:include ref="ditav_translation" after="comment.complex" />
     <xed:include ref="ditav_transcription" after="ditav_translation" />
     <xed:include ref="ditav_translation_available" after="ditav_transcription" />
@@ -80,103 +83,85 @@
 
   <xed:template id="genres.article">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.source_material">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.archival_material">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.autobiography">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.diplomatic_document">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.ego_document">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.fiction">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.financial_document">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.language_exercise">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.legal_document">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.letter">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.official_document">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.other">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.training_guide">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.transfer_document">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.travelogue">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.edition">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.series">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
   <xed:template id="genres.interview">
     <xed:include ref="ditav.admin.fields" />
-    <xed:include ref="ditav.genres.common" />
   </xed:template>
 
 
   <!-- ========== templates ========== -->
 
-  <!--SDNB  only optional -->
+  <!--SDNB
+  only optional -->
   <xed:template id="sdnb.repeat.optional">
     <xed:repeat xpath="mods:classification[@authority='sdnb'][@displayLabel='sdnb']" min="1"
       max="10" method="build">
@@ -260,7 +245,7 @@
 
   <xed:template id="ditav_scan_available">
     <xed:bind
-      xpath="mods:classification[@authorityURI='https://ditav.gbv.de/api/v2/classifications/scan_available'][@displayLabel='transcription']/@valueURIxEditor">
+      xpath="mods:classification[@authorityURI='https://ditav.gbv.de/api/v2/classifications/scan_available'][@displayLabel='scan_available']/@valueURIxEditor">
       <div class="form-group row {$xed-validation-marker}">
         <label class="col-md-3 col-form-label text-right">
           <xed:output i18n="ditav.form.scan_available.label" />
@@ -360,6 +345,70 @@
       </div>
     </xed:bind>
   </xed:template>
+
+  <xed:template id="koloe_continents">
+    <xed:bind
+      xpath="mods:classification[@authorityURI='https://ditav.gbv.de/api/v2/classifications/koloe_continents'][@displayLabel='koloe_continents']/@valueURIxEditor">
+      <div class="form-group row {$xed-validation-marker}">
+        <label class="col-md-3 col-form-label text-right">
+          <xed:output i18n="koloe_continents.label" />
+        </label>
+        <div class="col-md-6">
+          <select class="form-control form-control-inline">
+            <option value="">
+              <xed:output i18n="mir.select.optional" />
+            </option>
+            <xed:include
+              uri="xslStyle:items2options:classification:editor:-1:children:koloe_continents" />
+          </select>
+        </div>
+        <mir:help-pmud help-text="{i18n:koloe_continents.help}" pmud="false" />
+      </div>
+    </xed:bind>
+  </xed:template>
+
+  <xed:template id="koloe_period">
+    <xed:bind
+      xpath="mods:classification[@authorityURI='https://ditav.gbv.de/api/v2/classifications/koloe_period'][@displayLabel='koloe_period']/@valueURIxEditor">
+      <div class="form-group row {$xed-validation-marker}">
+        <label class="col-md-3 col-form-label text-right">
+          <xed:output i18n="koloe_period.label" />
+        </label>
+        <div class="col-md-6">
+          <select class="form-control form-control-inline">
+            <option value="">
+              <xed:output i18n="mir.select.optional" />
+            </option>
+            <xed:include
+              uri="xslStyle:items2options:classification:editor:-1:children:koloe_period" />
+          </select>
+        </div>
+        <mir:help-pmud help-text="{i18n:koloe_period.help}" pmud="false" />
+      </div>
+    </xed:bind>
+  </xed:template>
+
+  <xed:template id="koloe_topic_classification">
+    <xed:bind
+      xpath="mods:classification[@authorityURI='https://ditav.gbv.de/api/v2/classifications/koloe_topic_classification'][@displayLabel='koloe_topic_classification']/@valueURIxEditor">
+      <div class="form-group row {$xed-validation-marker}">
+        <label class="col-md-3 col-form-label text-right">
+          <xed:output i18n="koloe_topic_classification.label" />
+        </label>
+        <div class="col-md-6">
+          <select class="form-control form-control-inline">
+            <option value="">
+              <xed:output i18n="mir.select.optional" />
+            </option>
+            <xed:include
+              uri="xslStyle:items2options:classification:editor:-1:children:koloe_topic_classification" />
+          </select>
+        </div>
+        <mir:help-pmud help-text="{i18n:koloe_topic_classification.help}" pmud="false" />
+      </div>
+    </xed:bind>
+  </xed:template>
+
 
   <xed:template id="genres.edition">
     <xed:include ref="failed-validation-messages" />

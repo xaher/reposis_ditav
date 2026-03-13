@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="koloe_continents">
+  <label xml:lang="de" text="Kontinent" description="(KoloE) Kontinent" />
+  <label xml:lang="en" text="Continent" description="(KoloE) continent" />
+  <label xml:lang="fr" text="Continent" description="(KoloE) continent" />
+  <categories>
+    <category ID="oceania">
+      <label xml:lang="de" text="Ozeanien" />
+      <label xml:lang="en" text="Oceania" />
+      <label xml:lang="fr" text="Océanie" />
+    </category>
+  </categories>
+</mycoreclass>

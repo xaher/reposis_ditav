@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="koloe_period">
+  <label xml:lang="de" text="Zeitraum" description="(KoloE) Zeitraum" />
+  <label xml:lang="en" text="Period" description="(KoloE) period" />
+  <label xml:lang="fr" text="Période" description="(KoloE) Période" />
+  <label xml:lang="x-uri" text="https://ditav.gbv.de/api/v2/classifications/koloe_period" />
+  <categories>
+    <category ID="after_colonial_rule">
+      <label xml:lang="de" text="Nach dem Ende der formellen deutschen Kolonialherrschaft" />
+      <label xml:lang="en" text="After the end of formal German colonial rule" />
+      <label xml:lang="fr" text="Après la fin de la domination coloniale allemande officielle" />
+    </category>
+  </categories>
+</mycoreclass>

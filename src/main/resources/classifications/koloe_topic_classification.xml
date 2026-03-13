@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="koloe_topic_classification">
+  <label xml:lang="de" text="Thema" description="(KoloE) Thema" />
+  <label xml:lang="en" text="Topic" description="(KoloE) topic" />
+  <label xml:lang="fr" text="Thème" description="(KoloE) Thème" />
+  <label xml:lang="x-uri" text="https://ditav.gbv.de/api/v2/classifications/koloe_topic_classification" />
+  <categories>
+    <category ID="colonial_violence">
+      <label xml:lang="de" text="Koloniale Gewalt" />
+      <label xml:lang="en" text="Colonial violence" />
+      <label xml:lang="fr" text="Violences coloniales" />
+    </category>
+    <category ID="colonial_thought_patterns">
+      <label xml:lang="de" text="Koloniale Denkmuster und Strukturen" />
+      <label xml:lang="en" text="Colonial thought patterns and structures" />
+      <label xml:lang="fr" text="Modèles et structures de pensée coloniale" />
+    </category>
+  </categories>
+</mycoreclass>
