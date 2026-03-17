@@ -326,87 +326,91 @@
   </xed:template>
 
   <xed:template id="koloe_document_classification">
-    <xed:bind
-      xpath="mods:classification[@authorityURI='https://ditav.gbv.de/api/v2/classifications/koloe_document_classification'][@displayLabel='koloe_document_classification']/@valueURIxEditor">
-      <div class="form-group row {$xed-validation-marker}">
-        <label class="col-md-3 col-form-label text-right">
-          <xed:output i18n="koloe_document_classification.label" />
-        </label>
-        <div class="col-md-6">
-          <select class="form-control form-control-inline">
-            <option value="">
-              <xed:output i18n="mir.select.optional" />
-            </option>
-            <xed:include
-              uri="xslStyle:items2options:classification:editor:-1:children:koloe_document_classification" />
-          </select>
+    <xed:repeat xpath="mods:classification[@authorityURI='https://ditav.gbv.de/api/v2/classifications/koloe_document_classification'][@displayLabel='koloe_document_classification']" min="1">
+      <xed:bind xpath="@valueURIxEditor">
+        <div class="form-group row {$xed-validation-marker}">
+          <label class="col-md-3 col-form-label text-right">
+            <xed:output i18n="koloe_document_classification.label" />
+          </label>
+          <div class="col-md-6">
+            <select class="form-control form-control-inline">
+              <option value="">
+                <xed:output i18n="mir.select.optional" />
+              </option>
+              <xed:include
+                uri="xslStyle:items2options:classification:editor:-1:children:koloe_document_classification" />
+            </select>
+          </div>
+          <mir:help-pmud help-text="{i18n:koloe_document_classification.help}" pmud="true" />
         </div>
-        <mir:help-pmud help-text="{i18n:koloe_document_classification.help}" pmud="false" />
-      </div>
-    </xed:bind>
+      </xed:bind>
+    </xed:repeat>
   </xed:template>
 
   <xed:template id="koloe_continents">
-    <xed:bind
-      xpath="mods:classification[@authorityURI='https://ditav.gbv.de/api/v2/classifications/koloe_continents'][@displayLabel='koloe_continents']/@valueURIxEditor">
-      <div class="form-group row {$xed-validation-marker}">
-        <label class="col-md-3 col-form-label text-right">
-          <xed:output i18n="koloe_continents.label" />
-        </label>
-        <div class="col-md-6">
-          <select class="form-control form-control-inline">
-            <option value="">
-              <xed:output i18n="mir.select.optional" />
-            </option>
-            <xed:include
-              uri="xslStyle:items2options:classification:editor:-1:children:koloe_continents" />
-          </select>
+    <xed:repeat xpath="mods:classification[@authorityURI='https://ditav.gbv.de/api/v2/classifications/koloe_continents'][@displayLabel='koloe_continents']" min="1">
+      <xed:bind xpath="@valueURIxEditor">
+        <div class="form-group row {$xed-validation-marker}">
+          <label class="col-md-3 col-form-label text-right">
+            <xed:output i18n="koloe_continents.label" />
+          </label>
+          <div class="col-md-6">
+            <select class="form-control form-control-inline">
+              <option value="">
+                <xed:output i18n="mir.select.optional" />
+              </option>
+              <xed:include
+                uri="xslStyle:items2options:classification:editor:-1:children:koloe_continents" />
+            </select>
+          </div>
+          <mir:help-pmud help-text="{i18n:koloe_continents.help}" pmud="true" />
         </div>
-        <mir:help-pmud help-text="{i18n:koloe_continents.help}" pmud="false" />
-      </div>
-    </xed:bind>
+      </xed:bind>
+    </xed:repeat>
   </xed:template>
 
   <xed:template id="koloe_period">
-    <xed:bind
-      xpath="mods:classification[@authorityURI='https://ditav.gbv.de/api/v2/classifications/koloe_period'][@displayLabel='koloe_period']/@valueURIxEditor">
-      <div class="form-group row {$xed-validation-marker}">
-        <label class="col-md-3 col-form-label text-right">
-          <xed:output i18n="koloe_period.label" />
-        </label>
-        <div class="col-md-6">
-          <select class="form-control form-control-inline">
-            <option value="">
-              <xed:output i18n="mir.select.optional" />
-            </option>
-            <xed:include
-              uri="xslStyle:items2options:classification:editor:-1:children:koloe_period" />
-          </select>
+    <xed:repeat xpath="mods:classification[@authorityURI='https://ditav.gbv.de/api/v2/classifications/koloe_period'][@displayLabel='koloe_period']" min="1">
+      <xed:bind xpath="@valueURIxEditor">
+        <div class="form-group row {$xed-validation-marker}">
+          <label class="col-md-3 col-form-label text-right">
+            <xed:output i18n="koloe_period.label" />
+          </label>
+          <div class="col-md-6">
+            <select class="form-control form-control-inline">
+              <option value="">
+                <xed:output i18n="mir.select.optional" />
+              </option>
+              <xed:include
+                uri="xslStyle:items2options:classification:editor:-1:children:koloe_period" />
+            </select>
+          </div>
+          <mir:help-pmud help-text="{i18n:koloe_period.help}" pmud="true" />
         </div>
-        <mir:help-pmud help-text="{i18n:koloe_period.help}" pmud="false" />
-      </div>
-    </xed:bind>
+      </xed:bind>
+    </xed:repeat>
   </xed:template>
 
   <xed:template id="koloe_topic_classification">
-    <xed:bind
-      xpath="mods:classification[@authorityURI='https://ditav.gbv.de/api/v2/classifications/koloe_topic_classification'][@displayLabel='koloe_topic_classification']/@valueURIxEditor">
-      <div class="form-group row {$xed-validation-marker}">
-        <label class="col-md-3 col-form-label text-right">
-          <xed:output i18n="koloe_topic_classification.label" />
-        </label>
-        <div class="col-md-6">
-          <select class="form-control form-control-inline">
-            <option value="">
-              <xed:output i18n="mir.select.optional" />
-            </option>
-            <xed:include
-              uri="xslStyle:items2options:classification:editor:-1:children:koloe_topic_classification" />
-          </select>
+    <xed:repeat xpath="mods:classification[@authorityURI='https://ditav.gbv.de/api/v2/classifications/koloe_topic_classification'][@displayLabel='koloe_topic_classification']" min="1">
+      <xed:bind xpath="@valueURIxEditor">
+        <div class="form-group row {$xed-validation-marker}">
+          <label class="col-md-3 col-form-label text-right">
+            <xed:output i18n="koloe_topic_classification.label" />
+          </label>
+          <div class="col-md-6">
+            <select class="form-control form-control-inline">
+              <option value="">
+                <xed:output i18n="mir.select.optional" />
+              </option>
+              <xed:include
+                uri="xslStyle:items2options:classification:editor:-1:children:koloe_topic_classification" />
+            </select>
+          </div>
+          <mir:help-pmud help-text="{i18n:koloe_topic_classification.help}" pmud="true" />
         </div>
-        <mir:help-pmud help-text="{i18n:koloe_topic_classification.help}" pmud="false" />
-      </div>
-    </xed:bind>
+      </xed:bind>
+    </xed:repeat>
   </xed:template>
 
 
