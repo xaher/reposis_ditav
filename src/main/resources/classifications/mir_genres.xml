@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="mir_genres">
   <label xml:lang="de" text="Genre" description="Liste der Publikationsarten" />
-  <label xml:lang="en" text="genre" description="A list of publication types" />
-  <label xml:lang="fr" text="genre" description="Liste des types de publication" />
+  <label xml:lang="en" text="Genre" description="A list of publication types" />
+  <label xml:lang="fr" text="Genre" description="Liste des types de publication" />
   <label xml:lang="x-uri" text="http://www.mycore.org/classifications/mir_genres" />
   <categories>
     <category ID="article">
@@ -34,7 +34,7 @@
       <category ID="diplomatic_document">
         <label xml:lang="de" text="Diplomatisches Dokument" />
         <label xml:lang="en" text="Diplomatic Document" />
-        <label xml:lang="x-fr" text="Document diplomatique" />
+        <label xml:lang="fr" text="Document diplomatique" />
         <label xml:lang="x-hosts" text="standalone edition" />
         <label xml:lang="x-mapping" text="marcgt:official_document diniPublType:other diniPublType2022:SourceMaterial" />
       </category>
@@ -86,6 +86,11 @@
         <label xml:lang="fr" text="Document officiel" />
         <label xml:lang="x-hosts" text="standalone edition" />
         <label xml:lang="x-mapping" text="marcgt:official_document diniPublType:other diniPublType2022:SourceMaterial" />
+      </category>
+      <category ID="office_records">
+        <label xml:lang="de" text="Amtsunterlagen" description="Amtsunterlagen" />
+        <label xml:lang="en" text="office records" description="office records" />
+        <label xml:lang="fr" text="documents officiels" description="documents officiels" />
       </category>
       <category ID="other">
         <label xml:lang="de" text="Sonstiges" />
