@@ -6,33 +6,32 @@
   <label xml:lang="en" text="List of Archives" />
   <label xml:lang="x-uri" text="https://ditav.gbv.de/api/v2/classifications/lod_archives" />
   <categories>
-    <category ID="bbp">
-      <label xml:lang="en" text="BBP" description="Bibliothèque polonaise de Paris" />
-    </category>
-    <category ID="nlrmss">
-      <label xml:lang="en" text="NLR Mss" description="National Library of Russia" />
-    </category>
-    <category ID="avpri">
-      <label xml:lang="en" text="AVPRI" description="Archive of Foreign Policy of the Russian Empire" />
-    </category>
-    <category ID="rgia">
-      <label xml:lang="en" text="RGIA" description="Russian State Historical Archive" />
-    </category>
-    <category ID="niorgb">
-      <label xml:lang="en" text="NIOR RGB"
-        description="" />
-    </category>
-    <category ID="rgada">
-      <label xml:lang="en" text="RGADA" description="Russian State Archive of Ancient Files" />
-    </category>
     <category ID="ags">
-      <label xml:lang="en" text="AGS" description="General Archive of Simancas" />
-    </category>
-    <category ID="na_russia">
-      <label xml:lang="en" text="NA Kew" description="National Archives, Kew" />
+      <label xml:lang="en" text="AGS" description="Archivo General de Simancas [The General Archive of Simancas] (Simancas, Spain)" />
     </category>
     <category ID="ahn">
-      <label xml:lang="en" text="AHN" description="National Historical Archive" />
+      <label xml:lang="en" text="AHN" description="Archivo Histórico Nacional [The National Historical Archive] (Madrid, Spain)" />
+    </category>
+    <category ID="avpri">
+      <label xml:lang="en" text="AVPRI" description="Arkhiv vneshnei politiki Rossiiskoi imperii [Archive of Foreign Policy of the Russian Empire] (Moscow, Russia)" />
+    </category>
+    <category ID="bpp">
+      <label xml:lang="en" text="BPP" description="Bibliothèque Polonaise de Paris [Polish Library in Paris] (Paris, France)" />
+    </category>
+    <category ID="orrgb">
+      <label xml:lang="en" text="OR RGB"  description="Otdel rukopisei Rossiiskoi gosudarstvennoi biblioteki [Department of Manuscripts of the Russian State Library] (Moscow, Russia)" />
+    </category>
+    <category ID="orrnb">
+      <label xml:lang="en" text="OR RNB" description="Otdel rukopisei Rossiiskoi natsional’noi biblioteki [Department of Manuscripts of the Russian National Library] (Saint Petersburg, Russia)" />
+    </category>
+    <category ID="rgada">
+      <label xml:lang="en" text="RGADA" description="Rossiiskii gosudarstvennyi arkhiv drevnih aktov [Russian State Archive of Ancient Acts] (Moscow, Russia)" />
+    </category>
+    <category ID="rgia">
+      <label xml:lang="en" text="RGIA" description="Rossiiskii gosudarstvennyi istoricheskii arkhiv [Russian State Historical Archive] (Saint Petersburg, Russia)" />
+    </category>
+    <category ID="tna">
+      <label xml:lang="en" text="TNA, Kew" description="The National Archives (Kew, UK)" />
     </category>
   </categories>
 </mycoreclass>
