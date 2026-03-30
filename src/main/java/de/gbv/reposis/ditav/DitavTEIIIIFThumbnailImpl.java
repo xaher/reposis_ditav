@@ -3,6 +3,7 @@ package de.gbv.reposis.ditav;
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.List;
 import java.util.Objects;
 
@@ -87,9 +88,13 @@ public class DitavTEIIIIFThumbnailImpl extends MCRThumbnailImageImpl {
     }
 
     // check if facs referenced files exist
+    // Workaround for MCR-3660: MCRPath.normalize() incorrectly removes leading ".." segments,
+    // so we normalize using java.nio.file.Path instead.
+    String parentRelPath = teiPath.getParent().getOwnerRelativePath();
     for (String fac : facs) {
-      MCRPath facPath = (MCRPath) teiPath.getParent().resolve(fac);
-      MCRPath fromRootPath = MCRPath.getPath(derid.getTypeId(), fac);
+        String normalizedPath = Path.of(parentRelPath).resolve(fac).normalize().toString();
+        MCRPath facPath = MCRPath.getPath(derid.toString(), normalizedPath);
+        MCRPath fromRootPath = MCRPath.getPath(derid.toString(), fac);
       if (Files.exists(facPath)) {
         return facPath;
       } else if (Files.exists(fromRootPath)) {
