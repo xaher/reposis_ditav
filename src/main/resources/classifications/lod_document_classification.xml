@@ -7,697 +7,697 @@
   <categories>
     <category ID="ego_document">
       <label xml:lang="de" text="Ego-Dokument" description="Ego-Dokument" />
-      <label xml:lang="en" text="ego document" description="ego document" />
-      <label xml:lang="fr" text="document égo" description="document égo" />
+      <label xml:lang="en" text="Ego document" description="Ego document" />
+      <label xml:lang="fr" text="Document égo" description="Document égo" />
       <category ID="ego_letter">
         <label xml:lang="de" text="Brief" description="Ego-Dokument / Brief" />
-        <label xml:lang="en" text="letter" description="ego document / letter" />
-        <label xml:lang="fr" text="lettre" description="document égo / lettre" />
+        <label xml:lang="en" text="Letter" description="Ego document / Letter" />
+        <label xml:lang="fr" text="Lettre" description="Document égo / Lettre" />
       </category>
       <category ID="recommendation_letter">
         <label xml:lang="de" text="Empfehlungsschreiben" description="Ego-Dokument / Empfehlungsschreiben" />
-        <label xml:lang="en" text="letter of recommendation" description="ego document / letter of recommendation" />
-        <label xml:lang="fr" text="lettre de recommandation" description="document égo / lettre de recommandation" />
+        <label xml:lang="en" text="Letter of recommendation" description="Ego document / Letter of recommendation" />
+        <label xml:lang="fr" text="Lettre de recommandation" description="Document égo / Lettre de recommandation" />
       </category>
       <category ID="memoir_autobiography">
         <label xml:lang="de" text="Memoiren und Autobiografie" description="Ego-Dokument / Memoiren und Autobiografie" />
-        <label xml:lang="en" text="memoirs and autobiography" description="ego document / memoirs and autobiography" />
-        <label xml:lang="fr" text="mémoires et autobiographie" description="document égo / mémoires et autobiographie" />
+        <label xml:lang="en" text="Memoirs and autobiography" description="Ego document / Memoirs and autobiography" />
+        <label xml:lang="fr" text="Mémoires et autobiographie" description="Document égo / Mémoires et autobiographie" />
       </category>
       <category ID="travelogue">
         <label xml:lang="de" text="Reisebericht" description="Ego-Dokument / Reisebericht" />
-        <label xml:lang="en" text="travelogue" description="ego document / travelogue" />
-        <label xml:lang="fr" text="récit de voyage" description="document égo / récit de voyage" />
+        <label xml:lang="en" text="Travelogue" description="Ego document / Travelogue" />
+        <label xml:lang="fr" text="Récit de voyage" description="Document égo / Récit de voyage" />
       </category>
       <category ID="training_guide">
         <label xml:lang="de" text="Ausbildungsanleitung" description="Ego-Dokument / Ausbildungsanleitung" />
-        <label xml:lang="en" text="training guide" description="ego document / training guide" />
-        <label xml:lang="fr" text="guide de formation" description="document égo / guide de formation" />
+        <label xml:lang="en" text="Training guide" description="Ego document / Training guide" />
+        <label xml:lang="fr" text="Guide de formation" description="Document égo / Guide de formation" />
       </category>
       <category ID="project">
         <label xml:lang="de" text="Projekt" description="Ego-Dokument / Projekt" />
-        <label xml:lang="en" text="project" description="ego document / project" />
-        <label xml:lang="fr" text="projet" description="document égo / projet" />
+        <label xml:lang="en" text="Project" description="Ego document / Project" />
+        <label xml:lang="fr" text="Projet" description="Document égo / Projet" />
       </category>
     </category>
     <category ID="diplomatic_document">
       <label xml:lang="de" text="Diplomatisches Dokument" description="Diplomatisches Dokument" />
-      <label xml:lang="en" text="diplomatic document" description="diplomatic document" />
-      <label xml:lang="fr" text="document diplomatique" description="document diplomatique" />
+      <label xml:lang="en" text="Diplomatic document" description="Diplomatic document" />
+      <label xml:lang="fr" text="Document diplomatique" description="Document diplomatique" />
       <category ID="diplomatic_document_agreement">
         <label xml:lang="de" text="Vereinbarung" description="Diplomatisches Dokument / Vereinbarung" />
-        <label xml:lang="en" text="agreement" description="diplomatic document / agreement" />
-        <label xml:lang="fr" text="accord" description="document diplomatique / accord" />
+        <label xml:lang="en" text="Agreement" description="Diplomatic document / Agreement" />
+        <label xml:lang="fr" text="Accord" description="Document diplomatique / Accord" />
       </category>
       <category ID="diplomatic_document_endorsement">
         <label xml:lang="de" text="Befürwortung" description="Diplomatisches Dokument / Befürwortung" />
-        <label xml:lang="en" text="endorsement" description="diplomatic document / endorsement" />
-        <label xml:lang="fr" text="approbation" description="document diplomatique / approbation" />
+        <label xml:lang="en" text="Endorsement" description="Diplomatic document / Endorsement" />
+        <label xml:lang="fr" text="Approbation" description="Document diplomatique / Approbation" />
       </category>
       <category ID="diplomatic_document_guidance">
         <label xml:lang="de" text="Anleitung" description="Diplomatisches Dokument / Anleitung" />
-        <label xml:lang="en" text="guidance" description="diplomatic document / guidance" />
-        <label xml:lang="fr" text="directive" description="document diplomatique / directive" />
+        <label xml:lang="en" text="Guidance" description="Diplomatic document / Guidance" />
+        <label xml:lang="fr" text="Directive" description="Document diplomatique / Directive" />
       </category>
       <category ID="diplomatic_document_instruction">
         <label xml:lang="de" text="Instruktion" description="Diplomatisches Dokument / Instruktion" />
-        <label xml:lang="en" text="instruction" description="diplomatic document / instruction" />
-        <label xml:lang="fr" text="instruction" description="document diplomatique / instruction" />
+        <label xml:lang="en" text="Instruction" description="Diplomatic document / Instruction" />
+        <label xml:lang="fr" text="Instruction" description="Document diplomatique / Instruction" />
       </category>
       <category ID="diplomatic_document_manifesto">
         <label xml:lang="de" text="Manifest" description="Diplomatisches Dokument / Manifest" />
-        <label xml:lang="en" text="manifesto" description="diplomatic document / manifesto" />
-        <label xml:lang="fr" text="manifeste" description="document diplomatique / manifeste" />
+        <label xml:lang="en" text="Manifesto" description="Diplomatic document / Manifesto" />
+        <label xml:lang="fr" text="Manifeste" description="Document diplomatique / Manifeste" />
       </category>
       <category ID="diplomatic_document_diplomatic_note">
-        <label xml:lang="de" text="Diplomatische Note" description="Diplomatisches Dokument / Diplomatische Note" />
-        <label xml:lang="en" text="diplomatic note" description="diplomatic document / diplomatic note" />
-        <label xml:lang="fr" text="note diplomatique" description="document diplomatique / note diplomatique" />
+        <label xml:lang="de" text="Diplomatische Notiz" description="Diplomatisches Dokument / Diplomatische Notiz" />
+        <label xml:lang="en" text="Diplomatic note" description="Diplomatic document / Diplomatic note" />
+        <label xml:lang="fr" text="Note diplomatique" description="Document diplomatique / Note diplomatique" />
       </category>
       <category ID="diplomatic_document_passport">
         <label xml:lang="de" text="Reisepass" description="Diplomatisches Dokument / Reisepass" />
-        <label xml:lang="en" text="passport" description="diplomatic document / passport" />
-        <label xml:lang="fr" text="passeport" description="document diplomatique / passeport" />
+        <label xml:lang="en" text="Passport" description="Diplomatic document / Passport" />
+        <label xml:lang="fr" text="Passeport" description="Document diplomatique / Passeport" />
       </category>
       <category ID="diplomatic_document_project">
         <label xml:lang="de" text="Projekt" description="Diplomatisches Dokument / Projekt" />
-        <label xml:lang="en" text="project" description="diplomatic document / project" />
-        <label xml:lang="fr" text="projet" description="document diplomatique / projet" />
+        <label xml:lang="en" text="Project" description="Diplomatic document / Project" />
+        <label xml:lang="fr" text="Projet" description="Document diplomatique / Projet" />
       </category>
       <category ID="diplomatic_document_proposal">
         <label xml:lang="de" text="Vorschlag" description="Diplomatisches Dokument / Vorschlag" />
-        <label xml:lang="en" text="proposal" description="diplomatic document / proposal" />
-        <label xml:lang="fr" text="proposition" description="document diplomatique / proposition" />
+        <label xml:lang="en" text="Proposal" description="Diplomatic document / Proposal" />
+        <label xml:lang="fr" text="Proposition" description="Document diplomatique / Proposition" />
       </category>
       <category ID="diplomatic_document_recredential">
         <label xml:lang="de" text="Neubestellung" description="Diplomatisches Dokument / Neubestellung" />
-        <label xml:lang="en" text="recredential" description="diplomatic document / recredential" />
-        <label xml:lang="fr" text="nouvelle accréditation" description="document diplomatique / nouvelle accréditation" />
+        <label xml:lang="en" text="Recredential" description="Diplomatic document / Recredential" />
+        <label xml:lang="fr" text="Nouvelle accréditation" description="Document diplomatique / Nouvelle accréditation" />
       </category>
       <category ID="diplomatic_document_report">
         <label xml:lang="de" text="Bericht" description="Diplomatisches Dokument / Bericht" />
-        <label xml:lang="en" text="report" description="diplomatic document / report" />
-        <label xml:lang="fr" text="rapport" description="document diplomatique / rapport" />
+        <label xml:lang="en" text="Report" description="Diplomatic document / Report" />
+        <label xml:lang="fr" text="Rapport" description="Document diplomatique / Rapport" />
       </category>
       <category ID="diplomatic_document_rescript">
         <label xml:lang="de" text="Reskript" description="Diplomatisches Dokument / Reskript" />
-        <label xml:lang="en" text="rescript" description="diplomatic document / rescript" />
-        <label xml:lang="fr" text="rescrit" description="document diplomatique / rescrit" />
+        <label xml:lang="en" text="Rescript" description="Diplomatic document / Rescript" />
+        <label xml:lang="fr" text="Rescrit" description="Document diplomatique / Rescrit" />
       </category>
       <category ID="diplomatic_document_response_to_the_speech">
         <label xml:lang="de" text="Antwort auf die Rede" description="Diplomatisches Dokument / Antwort auf die Rede" />
-        <label xml:lang="en" text="response to the speech" description="diplomatic document / response to the speech" />
-        <label xml:lang="fr" text="réponse au discours" description="document diplomatique / réponse au discours" />
+        <label xml:lang="en" text="Response to the speech" description="Diplomatic document / Response to the speech" />
+        <label xml:lang="fr" text="Réponse au discours" description="Document diplomatique / Réponse au discours" />
       </category>
       <category ID="diplomatic_document_summary">
         <label xml:lang="de" text="Zusammenfassung" description="Diplomatisches Dokument / Zusammenfassung" />
-        <label xml:lang="en" text="summary" description="diplomatic document / summary" />
-        <label xml:lang="fr" text="résumé" description="document diplomatique / résumé" />
+        <label xml:lang="en" text="Summary" description="Diplomatic document / Summary" />
+        <label xml:lang="fr" text="Résumé" description="Document diplomatique / Résumé" />
       </category>
       <category ID="diplomatic_document_travelling_certificate">
         <label xml:lang="de" text="Reisebescheinigung" description="Diplomatisches Dokument / Reisebescheinigung" />
-        <label xml:lang="en" text="travelling certificate" description="diplomatic document / travelling certificate" />
-        <label xml:lang="fr" text="certificat de voyage" description="document diplomatique / certificat de voyage" />
+        <label xml:lang="en" text="Travelling Certificate" description="Diplomatic document / Travelling Certificate" />
+        <label xml:lang="fr" text="Certificat de voyage" description="Document diplomatique / Certificat de voyage" />
       </category>
       <category ID="diplomatic_document_treaty_ratification">
         <label xml:lang="de" text="Vertragsratifizierung" description="Diplomatisches Dokument / Vertragsratifizierung" />
-        <label xml:lang="en" text="treaty ratification" description="diplomatic document / treaty ratification" />
-        <label xml:lang="fr" text="ratification du traité" description="document diplomatique / ratification du traité" />
+        <label xml:lang="en" text="Treaty ratification" description="Diplomatic document / Treaty ratification" />
+        <label xml:lang="fr" text="Ratification du traité" description="Document diplomatique / Ratification du traité" />
       </category>
       <category ID="diplomatic_charter">
         <label xml:lang="de" text="Urkunde" description="Diplomatisches Dokument / Urkunde" />
-        <label xml:lang="en" text="charter" description="diplomatic document / charter" />
-        <label xml:lang="fr" text="charte" description="document diplomatique / charte" />
+        <label xml:lang="en" text="Charter" description="Diplomatic document / Charter" />
+        <label xml:lang="fr" text="Charte" description="Document diplomatique / Charte" />
       </category>
       <category ID="cipher_tables">
         <label xml:lang="de" text="Chiffriertabelle" description="Diplomatisches Dokument / Chiffriertabelle" />
-        <label xml:lang="en" text="cipher tables" description="diplomatic document / cipher tables" />
-        <label xml:lang="fr" text="tables de chiffrement" description="document diplomatique / tables de chiffrement" />
+        <label xml:lang="en" text="Cipher tables" description="Diplomatic document / Cipher tables" />
+        <label xml:lang="fr" text="Tables de chiffrement" description="Document diplomatique / Tables de chiffrement" />
       </category>
       <category ID="circular">
         <label xml:lang="de" text="Rundschreiben" description="Diplomatisches Dokument / Rundschreiben" />
-        <label xml:lang="en" text="circular" description="diplomatic document / circular" />
-        <label xml:lang="fr" text="circulaire" description="document diplomatique / circulaire" />
+        <label xml:lang="en" text="Circular" description="Diplomatic document / Circular" />
+        <label xml:lang="fr" text="Circulaire" description="Document diplomatique / Circulaire" />
       </category>
       <category ID="credential_of_leave">
         <label xml:lang="de" text="Reisegenehmigung" description="Diplomatisches Dokument / Reisegenehmigung" />
-        <label xml:lang="en" text="credential of leave" description="diplomatic document / credential of leave" />
-        <label xml:lang="fr" text="lettre de congé" description="document diplomatique / lettre de congé" />
+        <label xml:lang="en" text="Credential of leave" description="Diplomatic document / Credential of leave" />
+        <label xml:lang="fr" text="Lettre de congé" description="Document diplomatique / Lettre de congé" />
       </category>
       <category ID="commercial_treaty">
         <label xml:lang="de" text="Handelsvertrag" description="Diplomatisches Dokument / Handelsvertrag" />
-        <label xml:lang="en" text="commercial treaty" description="diplomatic document / commercial treaty" />
-        <label xml:lang="fr" text="traité commercial" description="document diplomatique / traité commercial" />
+        <label xml:lang="en" text="Commercial treaty" description="Diplomatic document / Commercial treaty" />
+        <label xml:lang="fr" text="Traité commercial" description="Document diplomatique / Traité commercial" />
       </category>
       <category ID="complaint">
         <label xml:lang="de" text="Beschwerde" description="Diplomatisches Dokument / Beschwerde" />
-        <label xml:lang="en" text="complaint" description="diplomatic document / complaint" />
-        <label xml:lang="fr" text="plainte" description="document diplomatique / plainte" />
+        <label xml:lang="en" text="Complaint" description="Diplomatic document / Complaint" />
+        <label xml:lang="fr" text="Plainte" description="Document diplomatique / Plainte" />
       </category>
       <category ID="declaration">
         <label xml:lang="de" text="Erklärung" description="Diplomatisches Dokument / Erklärung" />
-        <label xml:lang="en" text="declaration" description="diplomatic document / declaration" />
-        <label xml:lang="fr" text="déclaration" description="document diplomatique / déclaration" />
+        <label xml:lang="en" text="Declaration" description="Diplomatic document / Declaration" />
+        <label xml:lang="fr" text="Déclaration" description="Document diplomatique / Déclaration" />
       </category>
       <category ID="declaration_of_cession">
         <label xml:lang="de" text="Abtretungserklärung" description="Diplomatisches Dokument / Abtretungserklärung" />
-        <label xml:lang="en" text="declaration of cession" description="diplomatic document / declaration of cession" />
-        <label xml:lang="fr" text="déclaration de cession" description="document diplomatique / déclaration de cession" />
+        <label xml:lang="en" text="Declaration of cession" description="Diplomatic document / Declaration of cession" />
+        <label xml:lang="fr" text="Déclaration de cession" description="Document diplomatique / Déclaration de cession" />
       </category>
       <category ID="declaration_of_independance">
         <label xml:lang="de" text="Unabhängigkeitserklärung" description="Diplomatisches Dokument / Unabhängigkeitserklärung" />
-        <label xml:lang="en" text="declaration of independance" description="diplomatic document / declaration of independance" />
-        <label xml:lang="fr" text="déclaration d'indépendance" description="document diplomatique / déclaration d'indépendance" />
+        <label xml:lang="en" text="Declaration of independance" description="Diplomatic document / Declaration of independance" />
+        <label xml:lang="fr" text="Déclaration d'indépendance" description="Document diplomatique / Déclaration d'indépendance" />
       </category>
       <category ID="declaration_of_neutrality">
         <label xml:lang="de" text="Neutralitätserklärung" description="Diplomatisches Dokument / Neutralitätserklärung" />
-        <label xml:lang="en" text="declaration of neutrality" description="diplomatic document / declaration of neutrality" />
-        <label xml:lang="fr" text="déclaration de neutralité" description="document diplomatique / déclaration de neutralité" />
+        <label xml:lang="en" text="Declaration of neutrality" description="Diplomatic document / Declaration of neutrality" />
+        <label xml:lang="fr" text="Déclaration de neutralité" description="Document diplomatique / Déclaration de neutralité" />
       </category>
       <category ID="declaration_of_nonbelligency">
         <label xml:lang="de" text="Nichtkriegerklärung" description="Diplomatisches Dokument / Nichtkriegerklärung" />
-        <label xml:lang="en" text="declaration of nonbelligency" description="diplomatic document / declaration of nonbelligency" />
-        <label xml:lang="fr" text="déclaration de non-belligérance" description="document diplomatique / déclaration de non-belligérance" />
+        <label xml:lang="en" text="Declaration of nonbelligency" description="Diplomatic document / Declaration of nonbelligency" />
+        <label xml:lang="fr" text="Déclaration de non-belligérance" description="Document diplomatique / Déclaration de non-belligérance" />
       </category>
       <category ID="declaration_of_war">
         <label xml:lang="de" text="Kriegserklärung" description="Diplomatisches Dokument / Kriegserklärung" />
-        <label xml:lang="en" text="declaration of war" description="diplomatic document / declaration of war" />
-        <label xml:lang="fr" text="déclaration de guerre" description="document diplomatique / déclaration de guerre" />
+        <label xml:lang="en" text="Declaration of war" description="Diplomatic document / Declaration of war" />
+        <label xml:lang="fr" text="Déclaration de guerre" description="Document diplomatique / Déclaration de guerre" />
       </category>
       <category ID="dispatch">
         <label xml:lang="de" text="Depesche" description="Diplomatisches Dokument / Depesche" />
-        <label xml:lang="en" text="dispatch" description="diplomatic document / dispatch" />
-        <label xml:lang="fr" text="dépêche" description="document diplomatique / dépêche" />
+        <label xml:lang="en" text="Dispatch" description="Diplomatic document / Dispatch" />
+        <label xml:lang="fr" text="Dépêche" description="Document diplomatique / Dépêche" />
       </category>
       <category ID="full_powers">
         <label xml:lang="de" text="Vollmacht" description="Diplomatisches Dokument / Vollmacht" />
-        <label xml:lang="en" text="full powers" description="diplomatic document / full powers" />
-        <label xml:lang="fr" text="pleins pouvoirs" description="document diplomatique / pleins pouvoirs" />
+        <label xml:lang="en" text="Full powers" description="Diplomatic document / Full powers" />
+        <label xml:lang="fr" text="Pleins pouvoirs" description="Document diplomatique / Pleins pouvoirs" />
       </category>
       <category ID="international_treaty">
         <label xml:lang="de" text="Internationaler Vertrag" description="Diplomatisches Dokument / Internationaler Vertrag" />
-        <label xml:lang="en" text="international treaty" description="diplomatic document / international treaty" />
-        <label xml:lang="fr" text="traité international" description="document diplomatique / traité international" />
+        <label xml:lang="en" text="International treaty" description="Diplomatic document / International treaty" />
+        <label xml:lang="fr" text="Traité international" description="Document diplomatique / Traité international" />
       </category>
       <category ID="journal_of_the_ceremonial">
         <label xml:lang="de" text="Zeremonialprotokoll" description="Diplomatisches Dokument / Zeremonialprotokoll" />
-        <label xml:lang="en" text="journal of the ceremonial" description="diplomatic document / journal of the ceremonial" />
-        <label xml:lang="fr" text="journal du cérémonial" description="document diplomatique / journal du cérémonial" />
+        <label xml:lang="en" text="Journal of the ceremonial" description="Diplomatic document / Journal of the ceremonial" />
+        <label xml:lang="fr" text="Journal du cérémonial" description="Document diplomatique / Journal du cérémonial" />
       </category>
       <category ID="diplomatic_letter">
         <label xml:lang="de" text="Brief" description="Diplomatisches Dokument / Brief" />
-        <label xml:lang="en" text="letter" description="diplomatic document / letter" />
-        <label xml:lang="fr" text="lettre" description="document diplomatique / lettre" />
+        <label xml:lang="en" text="Letter" description="Diplomatic document / Letter" />
+        <label xml:lang="fr" text="Lettre" description="Document diplomatique / Lettre" />
       </category>
       <category ID="letter_of_credence">
         <label xml:lang="de" text="Beglaubigungsschreiben" description="Diplomatisches Dokument / Beglaubigungsschreiben" />
-        <label xml:lang="en" text="letter of credence" description="diplomatic document / letter of credence" />
-        <label xml:lang="fr" text="lettre de créance" description="document diplomatique / lettre de créance" />
+        <label xml:lang="en" text="Letter of credence" description="Diplomatic document / Letter of credence" />
+        <label xml:lang="fr" text="Lettre de créance" description="Document diplomatique / Lettre de créance" />
       </category>
       <category ID="letter_of_recall">
         <label xml:lang="de" text="Abberufungsschreiben" description="Diplomatisches Dokument / Abberufungsschreiben" />
-        <label xml:lang="en" text="letter of recall" description="diplomatic document / letter of recall" />
-        <label xml:lang="fr" text="lettre de rappel" description="document diplomatique / lettre de rappel" />
+        <label xml:lang="en" text="Letter of recall" description="Diplomatic document / Letter of recall" />
+        <label xml:lang="fr" text="Lettre de rappel" description="Document diplomatique / Lettre de rappel" />
       </category>
       <category ID="diplomatic_list">
         <label xml:lang="de" text="Liste" description="Diplomatisches Dokument / Liste" />
-        <label xml:lang="en" text="list" description="diplomatic document / list" />
-        <label xml:lang="fr" text="liste" description="document diplomatique / liste" />
+        <label xml:lang="en" text="List" description="Diplomatic document / List" />
+        <label xml:lang="fr" text="Liste" description="Document diplomatique / Liste" />
       </category>
       <category ID="matrital_contract">
         <label xml:lang="de" text="Ehevertrag" description="Diplomatisches Dokument / Ehevertrag" />
-        <label xml:lang="en" text="marital contract" description="diplomatic document / marital contract" />
-        <label xml:lang="fr" text="contrat de mariage" description="document diplomatique / contrat de mariage" />
+        <label xml:lang="en" text="Marital contract" description="Diplomatic document / Marital contract" />
+        <label xml:lang="fr" text="Contrat de mariage" description="Document diplomatique / Contrat de mariage" />
       </category>
       <category ID="memorandum">
         <label xml:lang="de" text="Memorandum" description="Diplomatisches Dokument / Memorandum" />
-        <label xml:lang="en" text="memorandum" description="diplomatic document / memorandum" />
-        <label xml:lang="fr" text="note" description="document diplomatique / note" />
+        <label xml:lang="en" text="Memorandum" description="Diplomatic document / Memorandum" />
+        <label xml:lang="fr" text="Note" description="Document diplomatique / Note" />
       </category>
       <category ID="memorial">
         <label xml:lang="de" text="Denkschrift" description="Diplomatisches Dokument / Denkschrift" />
-        <label xml:lang="en" text="memorial" description="diplomatic document / memorial" />
-        <label xml:lang="fr" text="mémorial" description="document diplomatique / mémorial" />
+        <label xml:lang="en" text="Memorial" description="Diplomatic document / Memorial" />
+        <label xml:lang="fr" text="Mémorial" description="Document diplomatique / Mémorial" />
       </category>
       <category ID="negotiation_record">
         <label xml:lang="de" text="Verhandlungsprotokoll" description="Diplomatisches Dokument / Verhandlungsprotokoll" />
-        <label xml:lang="en" text="negotiation record" description="diplomatic document / negotiation record" />
-        <label xml:lang="fr" text="procès-verbal de négociation" description="document diplomatique / procès-verbal de négociation" />
+        <label xml:lang="en" text="Negotiation record" description="Diplomatic document / Negotiation record" />
+        <label xml:lang="fr" text="Procès-Verbal de négociation" description="Document diplomatique / Procès-verbal de négociation" />
       </category>
       <category ID="diplomatic_note">
-        <label xml:lang="de" text="Note" description="Diplomatisches Dokument / Note" />
-        <label xml:lang="en" text="note" description="diplomatic document / note" />
-        <label xml:lang="fr" text="note" description="document diplomatique / note" />
+        <label xml:lang="de" text="Note" description="Diplomatisches Dokument / Notiz" />
+        <label xml:lang="en" text="Note" description="Diplomatic document / Note" />
+        <label xml:lang="fr" text="Note" description="Document diplomatique / Note" />
       </category>
       <category ID="diplomatic_document_matrimonial_cause">
         <label xml:lang="de" text="Ehesache" description="Diplomatisches Dokument / Ehesache" />
-        <label xml:lang="en" text="matrimonial cause" description="diplomatic document / matrimonial cause" />
-        <label xml:lang="fr" text="cause matrimoniale" description="document diplomatique / cause matrimoniale" />
+        <label xml:lang="en" text="Matrimonial cause" description="Diplomatic document / Matrimonial cause" />
+        <label xml:lang="fr" text="Cause matrimoniale" description="Document diplomatique / Cause matrimoniale" />
       </category>
       <category ID="particular_agreement">
         <label xml:lang="de" text="Sondervereinbarung" description="Diplomatisches Dokument / Sondervereinbarung" />
-        <label xml:lang="en" text="particular agreement" description="diplomatic document / particular agreement" />
-        <label xml:lang="fr" text="accord particulier" description="document diplomatique / accord particulier" />
+        <label xml:lang="en" text="Particular agreement" description="Diplomatic document / Particular agreement" />
+        <label xml:lang="fr" text="Accord particulier" description="Document diplomatique / Accord particulier" />
       </category>
       <category ID="peace_treaty">
         <label xml:lang="de" text="Friedensvertrag" description="Diplomatisches Dokument / Friedensvertrag" />
-        <label xml:lang="en" text="peace treaty" description="diplomatic document / peace treaty" />
-        <label xml:lang="fr" text="traité de paix" description="document diplomatique / traité de paix" />
+        <label xml:lang="en" text="Peace treaty" description="Diplomatic document / Peace treaty" />
+        <label xml:lang="fr" text="Traité de paix" description="Document diplomatique / Traité de paix" />
       </category>
       <category ID="petition">
         <label xml:lang="de" text="Petition" description="Diplomatisches Dokument / Petition" />
-        <label xml:lang="en" text="petition" description="diplomatic document / petition" />
-        <label xml:lang="fr" text="pétition" description="document diplomatique / pétition" />
+        <label xml:lang="en" text="Petition" description="Diplomatic document / Petition" />
+        <label xml:lang="fr" text="Pétition" description="Document diplomatique / Pétition" />
       </category>
       <category ID="pro_memoria">
         <label xml:lang="de" text="Pro-Memoria" description="Diplomatisches Dokument / Pro-Memoria" />
-        <label xml:lang="en" text="pro-memoria" description="diplomatic document / pro-memoria" />
-        <label xml:lang="fr" text="pro-memoria" description="document diplomatique / pro-memoria" />
+        <label xml:lang="en" text="Pro-Memoria" description="Diplomatic document / Pro-Memoria" />
+        <label xml:lang="fr" text="Pro-Memoria" description="Document diplomatique / Pro-Memoria" />
       </category>
       <category ID="proclamation">
         <label xml:lang="de" text="Proklamation" description="Diplomatisches Dokument / Proklamation" />
-        <label xml:lang="en" text="proclamation" description="diplomatic document / proclamation" />
-        <label xml:lang="fr" text="proclamation" description="document diplomatique / proclamation" />
+        <label xml:lang="en" text="Proclamation" description="Diplomatic document / Proclamation" />
+        <label xml:lang="fr" text="Proclamation" description="Document diplomatique / Proclamation" />
       </category>
       <category ID="proposition">
         <label xml:lang="de" text="Vorschlag" description="Diplomatisches Dokument / Vorschlag" />
-        <label xml:lang="en" text="proposition" description="diplomatic document / proposition" />
-        <label xml:lang="fr" text="proposition" description="document diplomatique / proposition" />
+        <label xml:lang="en" text="Proposition" description="Diplomatic document / Proposition" />
+        <label xml:lang="fr" text="Proposition" description="Document diplomatique / Proposition" />
       </category>
       <category ID="ratification">
         <label xml:lang="de" text="Ratifizierung" description="Diplomatisches Dokument / Ratifizierung" />
-        <label xml:lang="en" text="ratification" description="diplomatic document / ratification" />
-        <label xml:lang="fr" text="ratification" description="document diplomatique / ratification" />
+        <label xml:lang="en" text="Ratification" description="Diplomatic document / Ratification" />
+        <label xml:lang="fr" text="Ratification" description="Document diplomatique / Ratification" />
       </category>
       <category ID="reassurance">
         <label xml:lang="de" text="Bestätigung" description="Diplomatisches Dokument / Bestätigung" />
-        <label xml:lang="en" text="reassurance" description="diplomatic document / reassurance" />
-        <label xml:lang="fr" text="confirmation" description="document diplomatique / confirmation" />
+        <label xml:lang="en" text="Reassurance" description="Diplomatic document / Reassurance" />
+        <label xml:lang="fr" text="Confirmation" description="Document diplomatique / Confirmation" />
       </category>
       <category ID="report_to_a_monarch">
         <label xml:lang="de" text="Bericht an einen Monarchen" description="Diplomatisches Dokument / Bericht an einen Monarchen" />
-        <label xml:lang="en" text="report to a monarch" description="diplomatic document / report to a monarch" />
-        <label xml:lang="fr" text="rapport à un monarque" description="document diplomatique / rapport à un monarque" />
+        <label xml:lang="en" text="Report to a monarch" description="Diplomatic document / Report to a monarch" />
+        <label xml:lang="fr" text="Rapport à un monarque" description="Document diplomatique / Rapport à un monarque" />
       </category>
       <category ID="royal_letter">
         <label xml:lang="de" text="Königlicher Brief" description="Diplomatisches Dokument / Königlicher Brief" />
-        <label xml:lang="en" text="royal letter" description="diplomatic document / royal letter" />
-        <label xml:lang="fr" text="lettre royale" description="document diplomatique / lettre royale" />
+        <label xml:lang="en" text="Royal letter" description="Diplomatic document / Royal letter" />
+        <label xml:lang="fr" text="Lettre royale" description="Document diplomatique / Lettre royale" />
       </category>
       <category ID="diplomatic_speech">
         <label xml:lang="de" text="Rede" description="Diplomatisches Dokument / Rede" />
-        <label xml:lang="en" text="speech" description="diplomatic document / speech" />
-        <label xml:lang="fr" text="discours" description="document diplomatique / discours" />
+        <label xml:lang="en" text="Speech" description="Diplomatic document / Speech" />
+        <label xml:lang="fr" text="Discours" description="Document diplomatique / Discours" />
       </category>
       <category ID="treaty_of_alliance">
         <label xml:lang="de" text="Bündnisvertrag" description="Diplomatisches Dokument / Bündnisvertrag" />
-        <label xml:lang="en" text="treaty of alliance" description="diplomatic document / treaty of alliance" />
-        <label xml:lang="fr" text="traité d'alliance" description="document diplomatique / traité d'alliance" />
+        <label xml:lang="en" text="Treaty of alliance" description="Diplomatic document / Treaty of alliance" />
+        <label xml:lang="fr" text="Traité d'alliance" description="Document diplomatique / Traité d'alliance" />
       </category>
     </category>
     <category ID="office_records">
       <label xml:lang="de" text="Amtsunterlagen" description="Amtsunterlagen" />
-      <label xml:lang="en" text="office records" description="office records" />
-      <label xml:lang="fr" text="documents officiels" description="documents officiels" />
+      <label xml:lang="en" text="Office records" description="Office records" />
+      <label xml:lang="fr" text="Documents officiels" description="Documents officiels" />
     </category>
     <category ID="official_document">
       <label xml:lang="de" text="Amtliches Dokument" description="Amtliches Dokument" />
-      <label xml:lang="en" text="official document" description="official document" />
-      <label xml:lang="fr" text="document officiel" description="document officiel" />
+      <label xml:lang="en" text="Official document" description="Official document" />
+      <label xml:lang="fr" text="Document officiel" description="Document officiel" />
       <category ID="official_document_announcement">
         <label xml:lang="de" text="Ankündigung" description="Amtliches Dokument / Ankündigung" />
-        <label xml:lang="en" text="announcement" description="official document / announcement" />
-        <label xml:lang="fr" text="annonce" description="document officiel / annonce" />
+        <label xml:lang="en" text="Announcement" description="Official document / Announcement" />
+        <label xml:lang="fr" text="Annonce" description="Document officiel / Annonce" />
       </category>
       <category ID="biographical_note">
         <label xml:lang="de" text="Biografische Notiz" description="Amtliches Dokument / Biografische Notiz" />
-        <label xml:lang="en" text="biographical note" description="official document / biographical note" />
-        <label xml:lang="fr" text="note biographique" description="document officiel / note biographique" />
+        <label xml:lang="en" text="Biographical note" description="Official document / Biographical note" />
+        <label xml:lang="fr" text="Note biographique" description="Document officiel / Note biographique" />
       </category>
       <category ID="official_capitulation">
         <label xml:lang="de" text="Kapitulation" description="Amtliches Dokument / Kapitulation" />
-        <label xml:lang="en" text="capitulation" description="official document / capitulation" />
-        <label xml:lang="fr" text="capitulation" description="document officiel / capitulation" />
+        <label xml:lang="en" text="Capitulation" description="Official document / Capitulation" />
+        <label xml:lang="fr" text="Capitulation" description="Document officiel / Capitulation" />
       </category>
       <category ID="official_certificate">
         <label xml:lang="de" text="Zertifikat" description="Amtliches Dokument / Zertifikat" />
-        <label xml:lang="en" text="certificate" description="official document / certificate" />
-        <label xml:lang="fr" text="certificat" description="document officiel / certificat" />
+        <label xml:lang="en" text="Certificate" description="Official document / Certificate" />
+        <label xml:lang="fr" text="Certificat" description="Document officiel / Certificat" />
       </category>
       <category ID="certificate_of_achievement">
         <label xml:lang="de" text="Leistungsnachweis" description="Amtliches Dokument / Leistungsnachweis" />
-        <label xml:lang="en" text="certificate of achievement" description="official document / certificate of achievement" />
-        <label xml:lang="fr" text="certificat de réussite" description="document officiel / certificat de réussite" />
+        <label xml:lang="en" text="Certificate of achievement" description="Official document / Certificate of achievement" />
+        <label xml:lang="fr" text="Certificat de réussite" description="Document officiel / Certificat de réussite" />
       </category>
       <category ID="official_charter">
         <label xml:lang="de" text="Urkunde" description="Amtliches Dokument / Urkunde" />
-        <label xml:lang="en" text="charter" description="official document / charter" />
-        <label xml:lang="fr" text="charte" description="document officiel / charte" />
+        <label xml:lang="en" text="Charter" description="Official document / Charter" />
+        <label xml:lang="fr" text="Charte" description="Document officiel / Charte" />
       </category>
       <category ID="official_contract">
         <label xml:lang="de" text="Vertrag" description="Amtliches Dokument / Vertrag" />
-        <label xml:lang="en" text="contract" description="official document / contract" />
-        <label xml:lang="fr" text="contrat" description="document officiel / contrat" />
+        <label xml:lang="en" text="Contract" description="Official document / Contract" />
+        <label xml:lang="fr" text="Contrat" description="Document officiel / Contrat" />
       </category>
       <category ID="official_customs_tariff">
         <label xml:lang="de" text="Zolltarif" description="Amtliches Dokument / Zolltarif" />
-        <label xml:lang="en" text="customs tariff" description="official document / customs tariff" />
-        <label xml:lang="fr" text="tarif douanier" description="document officiel / tarif douanier" />
+        <label xml:lang="en" text="Customs tariff" description="Official document / Customs tariff" />
+        <label xml:lang="fr" text="Tarif douanier" description="Document officiel / Tarif douanier" />
       </category>
       <category ID="official_evaluation_sheet">
         <label xml:lang="de" text="Bewertungsbogen" description="Amtliches Dokument / Bewertungsbogen" />
-        <label xml:lang="en" text="evaluation sheet" description="official document / evaluation sheet" />
-        <label xml:lang="fr" text="fiche d'évaluation" description="document officiel / fiche d'évaluation" />
+        <label xml:lang="en" text="Evaluation sheet" description="Official document / Evaluation sheet" />
+        <label xml:lang="fr" text="Fiche d'évaluation" description="Document officiel / Fiche d'évaluation" />
       </category>
       <category ID="official_decree_ukaz">
         <label xml:lang="de" text="Dekret (Ukaz)" description="Amtliches Dokument / Dekret (Ukaz)" />
-        <label xml:lang="en" text="decree (ukaz)" description="official document / decree (ukaz)" />
-        <label xml:lang="fr" text="décret (oukase)" description="document officiel / décret (oukase)" />
+        <label xml:lang="en" text="Decree (Ukaz)" description="Official document / Decree (Ukaz)" />
+        <label xml:lang="fr" text="Décret (Oukase)" description="Document officiel / Décret (Oukase)" />
       </category>
       <category ID="official_inventory_of_property">
         <label xml:lang="de" text="Inventarverzeichnis" description="Amtliches Dokument / Inventarverzeichnis" />
-        <label xml:lang="en" text="inventory of property" description="official document / inventory of property" />
-        <label xml:lang="fr" text="inventaire des biens" description="document officiel / inventaire des biens" />
+        <label xml:lang="en" text="Inventory of property" description="Official document / Inventory of property" />
+        <label xml:lang="fr" text="Inventaire des biens" description="Document officiel / Inventaire des biens" />
       </category>
       <category ID="official_letter">
         <label xml:lang="de" text="Brief" description="Amtliches Dokument / Brief" />
-        <label xml:lang="en" text="letter" description="official document / letter" />
-        <label xml:lang="fr" text="lettre" description="document officiel / lettre" />
+        <label xml:lang="en" text="Letter" description="Official document / Letter" />
+        <label xml:lang="fr" text="Lettre" description="Document officiel / Lettre" />
       </category>
       <category ID="official_service_reference">
         <label xml:lang="de" text="Dienstbezug" description="Amtliches Dokument / Dienstbezug" />
-        <label xml:lang="en" text="service reference" description="official document / service reference" />
-        <label xml:lang="fr" text="référence de service" description="document officiel / référence de service" />
+        <label xml:lang="en" text="Service reference" description="Official document / Service reference" />
+        <label xml:lang="fr" text="Référence de service" description="Document officiel / Référence de service" />
       </category>
       <category ID="letter_of_marque">
         <label xml:lang="de" text="Kaperbrief" description="Amtliches Dokument / Kaperbrief" />
-        <label xml:lang="en" text="letter of marque" description="official document / letter of marque" />
-        <label xml:lang="fr" text="lettre de marque" description="document officiel / lettre de marque" />
+        <label xml:lang="en" text="Letter of marque" description="Official document / Letter of marque" />
+        <label xml:lang="fr" text="Lettre de marque" description="Document officiel / Lettre de marque" />
       </category>
       <category ID="official_document_appointment">
         <label xml:lang="de" text="Bestellungsbrief" description="Amtliches Dokument / Bestellungsbrief" />
-        <label xml:lang="en" text="Official Note" description="official document / letter of appointment" />
-        <label xml:lang="fr" text="lettre de nomination" description="document officiel / lettre de nomination" />
+        <label xml:lang="en" text="Official note" description="Official document / Letter of appointment" />
+        <label xml:lang="fr" text="Lettre de nomination" description="Document officiel / Lettre de nomination" />
       </category>
       <category ID="official_letter_of_recommendation">
         <label xml:lang="de" text="Empfehlungsschreiben" description="Amtliches Dokument / Empfehlungsschreiben" />
-        <label xml:lang="en" text="letter of recommendation" description="official document / letter of recommendation" />
-        <label xml:lang="fr" text="lettre de recommandation" description="document officiel / lettre de recommandation" />
+        <label xml:lang="en" text="Letter of recommendation" description="Official document / Letter of recommendation" />
+        <label xml:lang="fr" text="Lettre de recommandation" description="Document officiel / Lettre de recommandation" />
       </category>
       <category ID="official_license">
         <label xml:lang="de" text="Lizenz" description="Amtliches Dokument / Lizenz" />
-        <label xml:lang="en" text="license" description="official document / license" />
-        <label xml:lang="fr" text="licence" description="document officiel / licence" />
+        <label xml:lang="en" text="License" description="Official document / License" />
+        <label xml:lang="fr" text="Licence" description="Document officiel / Licence" />
       </category>
       <category ID="official_manifesto">
         <label xml:lang="de" text="Manifest" description="Amtliches Dokument / Manifest" />
-        <label xml:lang="en" text="manifesto" description="official document / manifesto" />
-        <label xml:lang="fr" text="manifeste" description="document officiel / manifeste" />
+        <label xml:lang="en" text="Manifesto" description="Official document / Manifesto" />
+        <label xml:lang="fr" text="Manifeste" description="Document officiel / Manifeste" />
       </category>
       <category ID="official_memorial">
         <label xml:lang="de" text="Denkschrift" description="Amtliches Dokument / Denkschrift" />
-        <label xml:lang="en" text="memorial" description="official document / memorial" />
-        <label xml:lang="fr" text="mémorial" description="document officiel / mémorial" />
+        <label xml:lang="en" text="Memorial" description="Official document / Memorial" />
+        <label xml:lang="fr" text="Mémorial" description="Document officiel / Mémorial" />
       </category>
       <category ID="official_document_note">
         <label xml:lang="de" text="Amtliche Notiz" description="Amtliches Dokument / Amtliche Notiz" />
-        <label xml:lang="en" text="official note" description="official document / note" />
-        <label xml:lang="fr" text="note officielle" description="document officiel / note officielle" />
+        <label xml:lang="en" text="Official note" description="Official document / Note" />
+        <label xml:lang="fr" text="Note officielle" description="Document officiel / Note officielle" />
       </category>
       <category ID="official_oath">
         <label xml:lang="de" text="Eid" description="Amtliches Dokument / Eid" />
-        <label xml:lang="en" text="oath" description="official document / oath" />
-        <label xml:lang="fr" text="serment" description="document officiel / serment" />
+        <label xml:lang="en" text="Oath" description="Official document / Oath" />
+        <label xml:lang="fr" text="Serment" description="Document officiel / Serment" />
       </category>
       <category ID="official_record">
         <label xml:lang="de" text="Amtsprotokoll" description="Amtliches Dokument / Amtsprotokoll" />
-        <label xml:lang="en" text="official record" description="official document / official record" />
-        <label xml:lang="fr" text="procès-verbal officiel" description="document officiel / procès-verbal officiel" />
+        <label xml:lang="en" text="Official record" description="Official document / Official record" />
+        <label xml:lang="fr" text="Procès-verbal officiel" description="Document officiel / Procès-verbal officiel" />
       </category>
       <category ID="official_document_royal_letter">
         <label xml:lang="de" text="Königlicher Brief" description="Amtliches Dokument / Königlicher Brief" />
-        <label xml:lang="en" text="royal letter" description="official document / royal letter" />
-        <label xml:lang="fr" text="lettre royale" description="document officiel / lettre royale" />
+        <label xml:lang="en" text="Royal letter" description="Official document / Royal letter" />
+        <label xml:lang="fr" text="Lettre royale" description="Document officiel / Lettre royale" />
       </category>
       <category ID="official_order">
         <label xml:lang="de" text="Anordnung" description="Amtliches Dokument / Anordnung" />
-        <label xml:lang="en" text="order" description="official document / order" />
-        <label xml:lang="fr" text="ordre" description="document officiel / ordre" />
+        <label xml:lang="en" text="Order" description="Official document / Order" />
+        <label xml:lang="fr" text="Ordre" description="Document officiel / Ordre" />
       </category>
       <category ID="official_petition">
         <label xml:lang="de" text="Petition" description="Amtliches Dokument / Petition" />
-        <label xml:lang="en" text="petition" description="official document / petition" />
-        <label xml:lang="fr" text="pétition" description="document officiel / pétition" />
+        <label xml:lang="en" text="Petition" description="Official document / Petition" />
+        <label xml:lang="fr" text="Pétition" description="Document officiel / Pétition" />
       </category>
       <category ID="official_power_of_attorney">
         <label xml:lang="de" text="Vollmacht" description="Amtliches Dokument / Vollmacht" />
-        <label xml:lang="en" text="power of attorney" description="official document / power of attorney" />
-        <label xml:lang="fr" text="procuration" description="document officiel / procuration" />
+        <label xml:lang="en" text="Power of attorney" description="Official document / Power of attorney" />
+        <label xml:lang="fr" text="Procuration" description="Document officiel / Procuration" />
       </category>
       <category ID="official_privilegium">
         <label xml:lang="de" text="Privilegium" description="Amtliches Dokument / Privilegium" />
-        <label xml:lang="en" text="privilegium" description="official document / privilegium" />
-        <label xml:lang="fr" text="privilège" description="document officiel / privilège" />
+        <label xml:lang="en" text="Privilegium" description="Official document / Privilegium" />
+        <label xml:lang="fr" text="Privilège" description="Document officiel / Privilège" />
       </category>
       <category ID="official_project">
         <label xml:lang="de" text="Projekt" description="Amtliches Dokument / Projekt" />
-        <label xml:lang="en" text="project" description="official document / project" />
-        <label xml:lang="fr" text="projet" description="document officiel / projet" />
+        <label xml:lang="en" text="Project" description="Official document / Project" />
+        <label xml:lang="fr" text="Projet" description="Document officiel / Projet" />
       </category>
       <category ID="official_regulation">
         <label xml:lang="de" text="Regelung" description="Amtliches Dokument / Regelung" />
-        <label xml:lang="en" text="regulation" description="official document / regulation" />
-        <label xml:lang="fr" text="règlement" description="document officiel / règlement" />
+        <label xml:lang="en" text="Regulation" description="Official document / Regulation" />
+        <label xml:lang="fr" text="Règlement" description="Document officiel / Règlement" />
       </category>
       <category ID="official_report">
         <label xml:lang="de" text="Bericht" description="Amtliches Dokument / Bericht" />
-        <label xml:lang="en" text="report" description="official document / report" />
-        <label xml:lang="fr" text="rapport" description="document officiel / rapport" />
+        <label xml:lang="en" text="Report" description="Official document / Report" />
+        <label xml:lang="fr" text="Rapport" description="Document officiel / Rapport" />
       </category>
       <category ID="official_resolution">
         <label xml:lang="de" text="Beschluss" description="Amtliches Dokument / Beschluss" />
-        <label xml:lang="en" text="resolution" description="official document / resolution" />
-        <label xml:lang="fr" text="résolution" description="document officiel / résolution" />
+        <label xml:lang="en" text="Resolution" description="Official document / Resolution" />
+        <label xml:lang="fr" text="Résolution" description="Document officiel / Résolution" />
       </category>
       <category ID="official_request">
         <label xml:lang="de" text="Antrag" description="Amtliches Dokument / Antrag" />
-        <label xml:lang="en" text="request" description="official document / request" />
-        <label xml:lang="fr" text="demande" description="document officiel / demande" />
+        <label xml:lang="en" text="Request" description="Official document / Request" />
+        <label xml:lang="fr" text="Demande" description="Document officiel / Demande" />
       </category>
       <category ID="official_rescript">
         <label xml:lang="de" text="Reskript" description="Amtliches Dokument / Reskript" />
-        <label xml:lang="en" text="rescript" description="official document / rescript" />
-        <label xml:lang="fr" text="rescrit" description="document officiel / rescrit" />
+        <label xml:lang="en" text="Rescript" description="Official document / Rescript" />
+        <label xml:lang="fr" text="Rescrit" description="Document officiel / Rescrit" />
       </category>
       <category ID="official_response">
         <label xml:lang="de" text="Antwort" description="Amtliches Dokument / Antwort" />
-        <label xml:lang="en" text="response" description="official document / response" />
-        <label xml:lang="fr" text="réponse" description="document officiel / réponse" />
+        <label xml:lang="en" text="Response" description="Official document / Response" />
+        <label xml:lang="fr" text="Réponse" description="Document officiel / Réponse" />
       </category>
       <category ID="official_document_speech">
         <label xml:lang="de" text="Rede" description="Amtliches Dokument / Rede" />
-        <label xml:lang="en" text="speech" description="official document / speech" />
-        <label xml:lang="fr" text="discours" description="document officiel / discours" />
+        <label xml:lang="en" text="Speech" description="Official document / Speech" />
+        <label xml:lang="fr" text="Discours" description="Document officiel / Discours" />
       </category>
       <category ID="official_staff_list">
         <label xml:lang="de" text="Personalverzeichnis" description="Amtliches Dokument / Personalverzeichnis" />
-        <label xml:lang="en" text="staff list" description="official document / staff list" />
-        <label xml:lang="fr" text="liste du personnel" description="document officiel / liste du personnel" />
+        <label xml:lang="en" text="Staff list" description="Official document / Staff list" />
+        <label xml:lang="fr" text="Liste du personnel" description="Document officiel / Liste du personnel" />
       </category>
       <category ID="official_statement">
         <label xml:lang="de" text="Erklärung" description="Amtliches Dokument / Erklärung" />
-        <label xml:lang="en" text="statement" description="official document / statement" />
-        <label xml:lang="fr" text="déclaration" description="document officiel / déclaration" />
+        <label xml:lang="en" text="Statement" description="Official document / Statement" />
+        <label xml:lang="fr" text="Déclaration" description="Document officiel / Déclaration" />
       </category>
       <category ID="official_statute">
         <label xml:lang="de" text="Satzung" description="Amtliches Dokument / Satzung" />
-        <label xml:lang="en" text="statute" description="official document / statute" />
-        <label xml:lang="fr" text="statut" description="document officiel / statut" />
+        <label xml:lang="en" text="Statute" description="Official document / Statute" />
+        <label xml:lang="fr" text="Statut" description="Document officiel / Statut" />
       </category>
       <category ID="official_summary">
         <label xml:lang="de" text="Zusammenfassung" description="Amtliches Dokument / Zusammenfassung" />
-        <label xml:lang="en" text="summary" description="official document / summary" />
-        <label xml:lang="fr" text="résumé" description="document officiel / résumé" />
+        <label xml:lang="en" text="Summary" description="Official document / Summary" />
+        <label xml:lang="fr" text="Résumé" description="Document officiel / Résumé" />
       </category>
       <category ID="official_testament">
         <label xml:lang="de" text="Testament" description="Amtliches Dokument / Testament" />
-        <label xml:lang="en" text="testament" description="official document / testament" />
-        <label xml:lang="fr" text="testament" description="document officiel / testament" />
+        <label xml:lang="en" text="Testament" description="Official document / Testament" />
+        <label xml:lang="fr" text="Testament" description="Document officiel / Testament" />
       </category>
       <category ID="official_proclamation">
         <label xml:lang="de" text="Proklamation" description="Amtliches Dokument / Proklamation" />
-        <label xml:lang="en" text="proclamation" description="official document / proclamation" />
-        <label xml:lang="fr" text="proclamation" description="document officiel / proclamation" />
+        <label xml:lang="en" text="Proclamation" description="Official document / Proclamation" />
+        <label xml:lang="fr" text="Proclamation" description="Document officiel / Proclamation" />
       </category>
       <category ID="official_journal_of_the_ceremonial">
         <label xml:lang="de" text="Zeremonialprotokoll" description="Amtliches Dokument / Zeremonialprotokoll" />
-        <label xml:lang="en" text="journal of the ceremonial" description="official document / journal of the ceremonial" />
-        <label xml:lang="fr" text="journal du cérémonial" description="document officiel / journal du cérémonial" />
+        <label xml:lang="en" text="Journal of the ceremonial" description="Official document / Journal of the ceremonial" />
+        <label xml:lang="fr" text="Journal du cérémonial" description="Document officiel / Journal du cérémonial" />
       </category>
     </category>
     <category ID="transfer_document">
       <label xml:lang="de" text="Transferdokumente" description="Transferdokumente" />
-      <label xml:lang="en" text="transfer document" description="transfer document" />
-      <label xml:lang="fr" text="document de transfert" description="document de transfert" />
+      <label xml:lang="en" text="Transfer document" description="Transfer document" />
+      <label xml:lang="fr" text="Document de transfert" description="Document de transfert" />
       <category ID="traveling_permit">
-        <label xml:lang="de" text="Reisebescheinigung/Reisepass" description="Übertragungsdokument / Reisebescheinigung/Reisepass" />
-        <label xml:lang="en" text="travelling certificate/transfer document" description="transfer document / travelling certificate / passport" />
-        <label xml:lang="fr" text="certificat de voyage/passeport" description="document de transfert / certificat de voyage/passeport" />
+        <label xml:lang="de" text="Reisebescheinigung / Reisepass" description="Übertragungsdokument / Reisebescheinigung/Reisepass" />
+        <label xml:lang="en" text="Travelling certificate / Transfer document" description="Transfer document / Travelling certificate / Passport" />
+        <label xml:lang="fr" text="Certificat de voyage / Passeport" description="Document de transfert / Certificat de voyage / Passeport" />
       </category>
     </category>
     <category ID="investigative_legal_document">
       <label xml:lang="de" text="Ermittlungs- und Rechtsdokument" description="Ermittlungs- und Rechtsdokument" />
-      <label xml:lang="en" text="investigative and legal document" description="investigative and legal document" />
-      <label xml:lang="fr" text="document d'enquête et juridique" description="document d'enquête et juridique" />
+      <label xml:lang="en" text="Investigative and legal document" description="Investigative and legal document" />
+      <label xml:lang="fr" text="Document d'enquête et juridique" description="Document d'enquête et juridique" />
       <category ID="legal_document_evidence">
         <label xml:lang="de" text="Beweismittel" description="Ermittlungs- und Rechtsdokument / Beweismittel" />
-        <label xml:lang="en" text="evidence" description="investigative and legal document / evidence" />
-        <label xml:lang="fr" text="preuve" description="document d'enquête et juridique / preuve" />
+        <label xml:lang="en" text="Evidence" description="Investigative and legal document / Evidence" />
+        <label xml:lang="fr" text="Preuve" description="Document d'enquête et juridique / Preuve" />
       </category>
       <category ID="legal_document_interrogation">
         <label xml:lang="de" text="Vernehmung" description="Ermittlungs- und Rechtsdokument / Vernehmung" />
-        <label xml:lang="en" text="interrogation" description="investigative and legal document / interrogation" />
-        <label xml:lang="fr" text="interrogatoire" description="document d'enquête et juridique / interrogatoire" />
+        <label xml:lang="en" text="Interrogation" description="Investigative and legal document / Interrogation" />
+        <label xml:lang="fr" text="Interrogatoire" description="Document d'enquête et juridique / Interrogatoire" />
       </category>
       <category ID="legal_document_judgement">
         <label xml:lang="de" text="Urteil (Gerichtsverfahren)" description="Ermittlungs- und Rechtsdokument / Urteil (Gerichtsverfahren)" />
-        <label xml:lang="en" text="judgement (court proceeding)" description="investigative and legal document / judgement (court proceeding)" />
-        <label xml:lang="fr" text="jugement (procédure judiciaire)" description="document d'enquête et juridique / jugement (procédure judiciaire)" />
+        <label xml:lang="en" text="Judgement (court proceeding)" description="Investigative and legal document / Judgement (court proceeding)" />
+        <label xml:lang="fr" text="Jugement (procédure judiciaire)" description="Document d'enquête et juridique / Jugement (procédure judiciaire)" />
       </category>
       <category ID="legal_document_matrimonial_cause">
         <label xml:lang="de" text="Ehesache" description="Ermittlungs- und Rechtsdokument / Ehesache" />
-        <label xml:lang="en" text="matrimonial cause" description="investigative and legal document / matrimonial cause" />
-        <label xml:lang="fr" text="cause matrimoniale" description="document d'enquête et juridique / cause matrimoniale" />
+        <label xml:lang="en" text="Matrimonial cause" description="Investigative and legal document / Matrimonial cause" />
+        <label xml:lang="fr" text="Cause matrimoniale" description="Document d'enquête et juridique / Cause matrimoniale" />
       </category>
     </category>
     <category ID="fiction">
       <label xml:lang="de" text="Fiktion" description="Fiktion" />
-      <label xml:lang="en" text="fiction" description="fiction" />
-      <label xml:lang="fr" text="fiction" description="fiction" />
+      <label xml:lang="en" text="Fiction" description="Fiction" />
+      <label xml:lang="fr" text="Fiction" description="Fiction" />
       <category ID="fiction_poetry">
         <label xml:lang="de" text="Dichtung" description="Fiktion / Dichtung" />
-        <label xml:lang="en" text="poetry" description="fiction / poetry" />
-        <label xml:lang="fr" text="poésie" description="fiction / poésie" />
+        <label xml:lang="en" text="Poetry" description="Fiction / Poetry" />
+        <label xml:lang="fr" text="Poésie" description="Fiction / Poésie" />
       </category>
       <category ID="fiction_prose">
         <label xml:lang="de" text="Prosa" description="Fiktion / Prosa" />
-        <label xml:lang="en" text="prose" description="fiction / prose" />
-        <label xml:lang="fr" text="prose" description="fiction / prose" />
+        <label xml:lang="en" text="Prose" description="Fiction / Prose" />
+        <label xml:lang="fr" text="Prose" description="Fiction / Prose" />
       </category>
       <category ID="fiction_speech">
         <label xml:lang="de" text="Rede" description="Fiktion / Rede" />
-        <label xml:lang="en" text="speech" description="fiction / speech" />
-        <label xml:lang="fr" text="discours" description="fiction / discours" />
+        <label xml:lang="en" text="Speech" description="Fiction / Speech" />
+        <label xml:lang="fr" text="Discours" description="Fiction / Discours" />
       </category>
       <category ID="fiction_drama">
         <label xml:lang="de" text="Drama" description="Fiktion / Drama" />
-        <label xml:lang="en" text="drama" description="fiction / drama" />
-        <label xml:lang="fr" text="drame" description="fiction / drame" />
+        <label xml:lang="en" text="Drama" description="Fiction / Drama" />
+        <label xml:lang="fr" text="Drame" description="Fiction / Drame" />
       </category>
     </category>
     <category ID="financial_document">
       <label xml:lang="de" text="Finanzdokument" description="Finanzdokument" />
-      <label xml:lang="en" text="financial document" description="financial document" />
-      <label xml:lang="fr" text="document financier" description="document financier" />
+      <label xml:lang="en" text="Financial document" description="Financial document" />
+      <label xml:lang="fr" text="Document financier" description="Document financier" />
       <category ID="bill_of_exchange">
         <label xml:lang="de" text="Wechsel" description="Finanzdokument / Wechsel" />
-        <label xml:lang="en" text="bill of exchange" description="financial document / bill of exchange" />
-        <label xml:lang="fr" text="lettre de change" description="document financier / lettre de change" />
+        <label xml:lang="en" text="Bill of exchange" description="Financial document / Bill of exchange" />
+        <label xml:lang="fr" text="Lettre de change" description="Document financier / Lettre de change" />
       </category>
       <category ID="bill_of_sale">
         <label xml:lang="de" text="Kaufvertrag" description="Finanzdokument / Kaufvertrag" />
-        <label xml:lang="en" text="bill of sale" description="financial document / bill of sale" />
-        <label xml:lang="fr" text="acte de vente" description="document financier / acte de vente" />
+        <label xml:lang="en" text="Bill of sale" description="Financial document / Bill of sale" />
+        <label xml:lang="fr" text="Acte de vente" description="Document financier / Acte de vente" />
       </category>
       <category ID="customs_declaration">
         <label xml:lang="de" text="Zollanmeldung" description="Finanzdokument / Zollanmeldung" />
-        <label xml:lang="en" text="customs declaration" description="financial document / customs declaration" />
-        <label xml:lang="fr" text="déclaration en douane" description="document financier / déclaration en douane" />
+        <label xml:lang="en" text="Customs declaration" description="Financial document / Customs declaration" />
+        <label xml:lang="fr" text="Déclaration en douane" description="Document financier / Déclaration en douane" />
       </category>
       <category ID="delivery_order">
         <label xml:lang="de" text="Lieferschein" description="Finanzdokument / Lieferschein" />
-        <label xml:lang="en" text="delivery order" description="financial document / delivery order" />
-        <label xml:lang="fr" text="ordre de livraison" description="document financier / ordre de livraison" />
+        <label xml:lang="en" text="Delivery order" description="Financial document / Delivery order" />
+        <label xml:lang="fr" text="Ordre de livraison" description="Document financier / Ordre de livraison" />
       </category>
       <category ID="expenditure_account">
         <label xml:lang="de" text="Ausgabenkonto" description="Finanzdokument / Ausgabenkonto" />
-        <label xml:lang="en" text="expenditure account" description="financial document / expenditure account" />
-        <label xml:lang="fr" text="compte de dépenses" description="document financier / compte de dépenses" />
+        <label xml:lang="en" text="Expenditure account" description="Financial document / Expenditure account" />
+        <label xml:lang="fr" text="Compte de dépenses" description="Document financier / Compte de dépenses" />
       </category>
       <category ID="financial_document_account">
         <label xml:lang="de" text="Konto" description="Finanzdokument / Konto" />
-        <label xml:lang="en" text="account" description="financial document / account" />
-        <label xml:lang="fr" text="compte" description="document financier / compte" />
+        <label xml:lang="en" text="Account" description="Financial document / Account" />
+        <label xml:lang="fr" text="Compte" description="Document financier / Compte" />
       </category>
       <category ID="invoice">
         <label xml:lang="de" text="Rechnung" description="Finanzdokument / Rechnung" />
-        <label xml:lang="en" text="invoice" description="financial document / invoice" />
-        <label xml:lang="fr" text="facture" description="document financier / facture" />
+        <label xml:lang="en" text="Invoice" description="Financial document / Invoice" />
+        <label xml:lang="fr" text="Facture" description="Document financier / Facture" />
       </category>
       <category ID="obligation">
         <label xml:lang="de" text="Verpflichtung" description="Finanzdokument / Verpflichtung" />
-        <label xml:lang="en" text="obligation" description="financial document / obligation" />
-        <label xml:lang="fr" text="obligation" description="document financier / obligation" />
+        <label xml:lang="en" text="Obligation" description="Financial document / Obligation" />
+        <label xml:lang="fr" text="Obligation" description="Document financier / Obligation" />
       </category>
       <category ID="receipt">
         <label xml:lang="de" text="Quittung" description="Finanzdokument / Quittung" />
-        <label xml:lang="en" text="receipt" description="financial document / receipt" />
-        <label xml:lang="fr" text="reçu" description="document financier / reçu" />
+        <label xml:lang="en" text="Receipt" description="Financial document / Receipt" />
+        <label xml:lang="fr" text="Reçu" description="Document financier / Reçu" />
       </category>
       <category ID="debenture">
         <label xml:lang="de" text="Schuldverschreibung" description="Finanzdokument / Schuldverschreibung" />
-        <label xml:lang="en" text="debenture" description="financial document / debenture" />
-        <label xml:lang="fr" text="obligation" description="document financier / obligation" />
+        <label xml:lang="en" text="Debenture" description="Financial document / Debenture" />
+        <label xml:lang="fr" text="Obligation" description="Document financier / Obligation" />
       </category>
       <category ID="bill">
         <label xml:lang="de" text="Rechnung" description="Finanzdokument / Rechnung" />
-        <label xml:lang="en" text="bill" description="financial document / bill" />
-        <label xml:lang="fr" text="facture" description="document financier / facture" />
+        <label xml:lang="en" text="Bill" description="Financial document / Bill" />
+        <label xml:lang="fr" text="Facture" description="Document financier / Facture" />
       </category>
     </category>
     <category ID="collection_of_archival_materials">
       <label xml:lang="de" text="Sammlung von Archivmaterialien" description="Sammlung von Archivmaterialien" />
-      <label xml:lang="en" text="collection of archival materials" description="collection of archival materials" />
-      <label xml:lang="fr" text="collection de documents d'archives" description="collection de documents d'archives" />
+      <label xml:lang="en" text="Collection of archival materials" description="Collection of archival materials" />
+      <label xml:lang="fr" text="Collection de documents d'archives" description="Collection de documents d'archives" />
     </category>
     <category ID="language_exercise">
       <label xml:lang="de" text="Sprachübung" description="Sprachübung" />
-      <label xml:lang="en" text="language execise" description="language execise" />
+      <label xml:lang="en" text="Language execise" description="Language execise" />
       <label xml:lang="fr" text="exercice de langue" description="exercice de langue" />
       <category ID="language_exercise_letter">
         <label xml:lang="de" text="Brief" description="Sprachübung / Brief" />
-        <label xml:lang="en" text="letter" description="language execise / letter" />
-        <label xml:lang="fr" text="lettre" description="exercice de langue / lettre" />
+        <label xml:lang="en" text="Letter" description="Language execise / Letter" />
+        <label xml:lang="fr" text="Lettre" description="exercice de langue / Lettre" />
       </category>
       <category ID="language_exercise_translation">
         <label xml:lang="de" text="Übersetzung" description="Sprachübung / Übersetzung" />
-        <label xml:lang="en" text="translation" description="language execise / translation" />
-        <label xml:lang="fr" text="traduction" description="exercice de langue / traduction" />
+        <label xml:lang="en" text="Translation" description="Language execise / Translation" />
+        <label xml:lang="fr" text="Traduction" description="Exercice de langue / Traduction" />
       </category>
     </category>
     <category ID="other">
       <label xml:lang="de" text="Sonstiges" description="Sonstiges" />
-      <label xml:lang="en" text="other" description="other" />
-      <label xml:lang="fr" text="autre" description="autre" />
+      <label xml:lang="en" text="Other" description="Other" />
+      <label xml:lang="fr" text="Autre" description="Autre" />
       <category ID="newspaper">
         <label xml:lang="de" text="Zeitung" description="Sonstiges / Zeitung" />
-        <label xml:lang="en" text="newspaper" description="other / newspaper" />
-        <label xml:lang="fr" text="journal" description="autre / journal" />
+        <label xml:lang="en" text="Newspaper" description="Other / Newspaper" />
+        <label xml:lang="fr" text="Journal" description="Autre / Journal" />
       </category>
       <category ID="printed_description">
         <label xml:lang="de" text="Gedruckte Beschreibung" description="Sonstiges / Gedruckte Beschreibung" />
-        <label xml:lang="en" text="printed description" description="other / printed description" />
-        <label xml:lang="fr" text="description imprimée" description="autre / description imprimée" />
+        <label xml:lang="en" text="Printed description" description="Other / Printed description" />
+        <label xml:lang="fr" text="Description imprimée" description="Autre / Description imprimée" />
       </category>
       <category ID="treatise">
         <label xml:lang="de" text="Abhandlung" description="Sonstiges / Abhandlung" />
-        <label xml:lang="en" text="treatise" description="other / treatise" />
-        <label xml:lang="fr" text="traité" description="autre / traité" />
+        <label xml:lang="en" text="Treatise" description="Other / Treatise" />
+        <label xml:lang="fr" text="Traité" description="Autre / Traité" />
       </category>
       <category ID="records_of_embassy">
         <label xml:lang="de" text="Botschaftsunterlagen" description="Sonstiges / Botschaftsunterlagen" />
-        <label xml:lang="en" text="records of embassy" description="other / records of embassy" />
-        <label xml:lang="fr" text="documents d'ambassade" description="autre / documents d'ambassade" />
+        <label xml:lang="en" text="Records of embassy" description="Other / Records of embassy" />
+        <label xml:lang="fr" text="Documents d'ambassade" description="Autre / Documents d'ambassade" />
       </category>
     </category>
   </categories>

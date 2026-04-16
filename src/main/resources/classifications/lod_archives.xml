@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="lod_archives">
-  <label xml:lang="de" text="Archivliste" />
-  <label xml:lang="en" text="List of Archives" />
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="lod_archives">
+  <label xml:lang="de" text="Archive" />
+  <label xml:lang="en" text="Archives" />
   <label xml:lang="x-uri" text="https://ditav.gbv.de/api/v2/classifications/lod_archives" />
   <categories>
     <category ID="ags">
@@ -19,7 +17,7 @@
       <label xml:lang="en" text="BPP" description="Bibliothèque Polonaise de Paris [Polish Library in Paris] (Paris, France)" />
     </category>
     <category ID="orrgb">
-      <label xml:lang="en" text="OR RGB"  description="Otdel rukopisei Rossiiskoi gosudarstvennoi biblioteki [Department of Manuscripts of the Russian State Library] (Moscow, Russia)" />
+      <label xml:lang="en" text="OR RGB" description="Otdel rukopisei Rossiiskoi gosudarstvennoi biblioteki [Department of Manuscripts of the Russian State Library] (Moscow, Russia)" />
     </category>
     <category ID="orrnb">
       <label xml:lang="en" text="OR RNB" description="Otdel rukopisei Rossiiskoi natsional’noi biblioteki [Department of Manuscripts of the Russian National Library] (Saint Petersburg, Russia)" />
