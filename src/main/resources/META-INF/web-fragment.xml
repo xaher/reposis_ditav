@@ -16,7 +16,14 @@
         <servlet-name>DitavExportServlet</servlet-name>
         <url-pattern>/servlets/DitavExportServlet/*</url-pattern>
     </servlet-mapping>
-    
+    <filter>
+        <filter-name>CORSFilterStarter</filter-name>
+        <filter-class>de.gbv.reposis.ditav.CORSFilterStarter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>CORSFilterStarter</filter-name>
+        <url-pattern>/servlets/MCRDerivateContentTransformerServlet/*</url-pattern>
+    </filter-mapping>
 
 
 </web-fragment>
