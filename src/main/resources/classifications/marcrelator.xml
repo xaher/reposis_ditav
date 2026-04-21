@@ -145,15 +145,15 @@
       </category>
       <category ID="trc">
         <label xml:lang="de" text="Transkribierende(r)" description="Eine Person oder Institution, die zu einer Ressource beiträgt, indem sie sie von einem Notationssystem in ein anderes überträgt. Für eine Arbeit, die für ein anderes Instrument oder eine andere Aufführungsgruppe transkribiert wurde, siehe Arrangeur [arr]. Für Hersteller von Stift-Faksimiles verwenden Sie Facsimilist [fac]." />
-        <label xml:lang="en" text="Transcriber" description="A person, family, or organization contributing to a resource by changing it from one system of notation to another. For a work transcribed for a different instrument or performing group, see Arranger [arr]. For makers of pen-facsimiles, use Facsimilist [fac]"/>
+        <label xml:lang="en" text="Transcriber" description="A person, family, or organization contributing to a resource by changing it from one system of notation to another. For a work transcribed for a different instrument or performing group, see Arranger [arr]. For makers of pen-facsimiles, use Facsimilist [fac]" />
         <label xml:lang="fr" text="Transcripteur" description="Une personne ou une institution qui contribue à une ressource en la changeant d'un système de notation à un autre. Pour une œuvre transcrite pour un instrument ou un groupe de performance différent, voir Arrangeur [arr]. Pour les fabricants de fac-similés au stylo, utilisez Facsimilist [fac]." />
         <label xml:lang="x-miless" text="transcriber" />
       </category>
       <category ID="crr">
-        <label xml:lang="en" text="Corrector" description="A person or organization who is a corrector of manuscripts, such as the scriptorium official who corrected the work of a scribe. For printed matter, use Proofreader" />
         <label xml:lang="de" text="Korrektor(in)" description="Eine Person oder Institution, die Korrektor von Manuskripten ist, wie z.B. der Scriptorium-Beamte, der die Arbeit eines Schreibers korrigiert hat. Für gedruckte Sachen verwenden Sie Lektor(in)" />
+        <label xml:lang="en" text="Corrector" description="A person or organization who is a corrector of manuscripts, such as the scriptorium official who corrected the work of a scribe. For printed matter, use Proofreader" />
         <label xml:lang="fr" text="Correcteur" description="Une personne ou une institution qui est un correcteur de manuscrits, comme le fonctionnaire du scriptorium qui a corrigé le travail d'un scribe. Pour les documents imprimés, utilisez Proofreader" />
-        <label text="corrector" xml:lang="x-miless" />
+        <label xml:lang="x-miless" text="corrector" />
       </category>
       <category ID="ill">
         <label xml:lang="de" text="Illustrator(in)" description="Eine Person oder Institution, die eine Zeichnung oder Illustration  entwirft und eventuell auch implementiert, um einen geschriebenen Text zu begleiten." />
@@ -270,6 +270,12 @@
         <label xml:lang="en" text="Recipient" description="Use for a person or organization receiving a resource, such as a letter, gift, award, or honor." />
         <label xml:lang="fr" text="Destinataire" description="Une personne ou une institution recevant une ressource, telle qu'une lettre, un cadeau, une récompense ou un honneur." />
         <label xml:lang="x-miless" text="recipient" />
+      </category>
+      <category ID="asn">
+        <label xml:lang="de" text="Assoziiert" description="Eine Person oder Institution, die mit einer anderen Person oder Institution verbunden ist, z. B. durch eine persönliche Beziehung, eine Mitgliedschaft oder eine Sponsoring-Beziehung." />
+        <label xml:lang="en" text="Associated with" description="Use for a person or organization associated with another person or organization, such as through a personal relationship, membership, or sponsorship relationship." />
+        <label xml:lang="fr" text="Associé à" description="Une personne ou une institution associée à une autre personne ou institution, telle que par le biais d'une relation personnelle, d'une adhésion ou d'une relation de parrainage." />
+        <label xml:lang="x-miless" text="associatedWith" />
       </category>
     </category>
   </categories>
